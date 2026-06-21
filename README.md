@@ -132,9 +132,20 @@ $ hridya status
 ### Spotify
 
 <!-- SPOTIFY_NOW_PLAYING:START -->
+<table>
+<tr>
+<td width="72">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</td>
+<td>
+
 **Now playing** · awaiting connection
 
 Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` to go live.
+
+</td>
+</tr>
+</table>
 <!-- SPOTIFY_NOW_PLAYING:END -->
 
 ### WakaTime

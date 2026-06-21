@@ -20,16 +20,13 @@
   <img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=Profile%20views&color=FFBE0B&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100%" alt="Confetti celebration"/>
-</p>
-
 <details>
-<summary><b>🪩 Extra celebration</b> · click me</summary>
+<summary><b>🪩 Celebration mode</b> · click if you can handle the funk</summary>
 <br/>
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sKonkafW92/giphy.gif" width="480" alt="Disco"/>
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="480" alt="Party"/>
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="640" alt="Confetti"/>
+  <img src="https://media.giphy.com/media/26BRuo6sKonkafW92/giphy.gif" width="320" alt="Disco"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="320" alt="Party"/>
 </p>
 </details>
 
@@ -251,8 +248,6 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
   <a href="https://linkedin.com/in/hridyajain">
     <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:8338EC,100:FF006E&height=80&section=footer" width="100%" alt="Footer"/>
+  <img src="https://img.shields.io/badge/Built%20different-deployed%20daily-FF006E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FUNK%20MODE-activated-FFBE0B?style=for-the-badge"/>
 </p>

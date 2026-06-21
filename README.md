@@ -1,51 +1,36 @@
-<!-- Profile README · https://github.com/BlackBeanEagles · FUNK EDITION -->
-
-<!-- Assets base: https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/ -->
-
-<img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/welcome-confetti.svg" width="100%" alt="Sideways confetti celebration"/>
-
-<img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/celebration-parade.svg" width="100%" alt="Sideways celebration parade"/>
+<!-- Profile README · https://github.com/BlackBeanEagles -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/disco-strip.svg" alt="Funk mode activated"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI+%C2%B7+Security+%C2%B7+Full-Stack&descSize=18&descAlignY=58&descAlign=50" alt="Hridya Jain"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI+%C2%B7+Security+%C2%B7+Full-Stack+%C2%B7+Funk&descSize=18&descAlignY=58&descAlign=50"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:FF006E,100:FFBE0B&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=0D0221&animation=twinkling&fontAlignY=38&desc=AI+%C2%B7+Security+%C2%B7+Full-Stack+%C2%B7+Funk&descSize=18&descAlignY=58&descAlign=50"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI+%C2%B7+Security+%C2%B7+Full-Stack+%C2%B7+Funk&descSize=18&descAlignY=58&descAlign=50" alt="Hridya Jain profile banner"/>
-  </picture>
-</p>
-
-<h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=32&duration=2600&pause=700&color=FF006E&center=true&vCenter=true&width=680&lines=Caffeine+%2B+chaos+%3D+working+code;AI+tools+with+main+character+energy;Security+so+tight+it+actually+slaps"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=32&duration=2600&pause=700&color=8338EC&center=true&vCenter=true&width=680&lines=Caffeine+%2B+chaos+%3D+working+code;AI+tools+with+main+character+energy;Security+so+tight+it+actually+slaps"/>
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=32&duration=2600&pause=700&color=FF006E&center=true&vCenter=true&width=680&lines=Caffeine+%2B+chaos+%3D+working+code;AI+tools+with+main+character+energy;Security+so+tight+it+actually+slaps" alt="Funky typing intro"/>
-  </picture>
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/funky-status.svg" alt="Live status"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF006E&center=true&width=620&lines=Building+AI-powered+developer+tools;Securing+apps+that+actually+slap;Full-stack+with+main+character+energy"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hridyajain"><img src="https://img.shields.io/badge/LinkedIn-slide+into+DMs-FF006E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/BlackBeanEagles?tab=repositories"><img src="https://img.shields.io/badge/Repos-peep+the+bangers-8338EC?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
-  <img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=vibe+checks&color=FFBE0B&style=for-the-badge" alt="Visitors"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIBE-FUNK%20MODE-FF006E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI+%2B+Security-8338EC?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hridyajain"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/BlackBeanEagles?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+  <img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=Profile%20views&color=FFBE0B&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100%" alt="Confetti celebration"/>
 </p>
 
 <details>
-<summary><b>🪩 CELEBRATION MODE</b> · click if you can handle the funk</summary>
+<summary><b>🪩 Extra celebration</b> · click me</summary>
 <br/>
-
-<img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/welcome-confetti.svg" width="100%" alt="Extra confetti burst"/>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sKonkafW92/giphy.gif" width="320" alt="Disco gif"/>
+  <img src="https://media.giphy.com/media/26BRuo6sKonkafW92/giphy.gif" width="480" alt="Disco"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="480" alt="Party"/>
 </p>
-
 </details>
 
 <!-- DEV_QUOTE:START -->
@@ -54,15 +39,15 @@
 
 ---
 
-## `🪩 > hridya.drop_the_beat()`
+## About me
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-**Full-stack dev with AI brain, security spine, and questionable sleep schedule.**
+**Full-stack developer** building at the intersection of **AI**, **security**, and **developer experience**.
 
-I build tools that are actually useful — commit therapists, interview coaches, secure apps — but make them feel **fun to use**, not corporate-gray.
+I ship tools like commit therapists, interview coaches, and secure apps — useful *and* fun to use.
 
 <br/>
 
@@ -70,35 +55,27 @@ I build tools that are actually useful — commit therapists, interview coaches,
 > **Now building:** [`zapsafe-mobile`](https://github.com/BlackBeanEagles/zapsafe-mobile) · `Dart` · last push `2026-06-09`
 
 ```bash
-$ git clone https://github.com/BlackBeanEagles/zapsafe-mobile.git && cd zapsafe-mobile && echo "Let's build."
+$ git clone https://github.com/BlackBeanEagles/zapsafe-mobile.git && cd zapsafe-mobile
 ```
 <!-- NOW_BUILDING:END -->
 
 <br/>
 
 <details>
-<summary><b>🕺 Run <code>hridya --help</code></b> · yes, it slaps</summary>
+<summary><b>🖥️ <code>hridya --help</code></b></summary>
 <br/>
 
 ```bash
 $ hridya --help
 
-  COMMANDS
-    status      What's cooking right now
-    projects    Open the banger repos
-    stack       Tools I touch daily
-    now         Spotify + WakaTime (when connected)
-    connect     Slide into LinkedIn DMs
-
-  FLAGS
-    --ai        LLM-powered chaos (the good kind)
-    --sec       Apps locked down tighter than your ex's privacy settings
-    --funk      Maximum vibe output (default: true)
+  status      What's building right now
+  projects    Featured repositories
+  stack       Languages and tools
+  connect     LinkedIn
 
 $ hridya status
-  ● ONLINE
-  ● Main character arc: building AI + security tools
-  ● Collabs welcome — bring weird ideas
+  ● ONLINE · building AI + security tools
+  ● Open to collabs
 ```
 
 </details>
@@ -106,20 +83,20 @@ $ hridya status
 </td>
 <td width="42%" valign="top">
 
-### Vibe feed
+### Live feed
 
 <!-- LIVE_FEED:START -->
 | Signal | Value |
 | :--- | :--- |
-| **Last public activity** | `push -> BlackBeanEagles` |
+| **Last activity** | `push -> BlackBeanEagles` |
 | **Public repos** | `26` |
 | **Followers** | `7` |
-| **Profile sync** | auto-updated every 6 hours |
+| **Auto-sync** | every 6 hours |
 <!-- LIVE_FEED:END -->
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlackBeanEagles&show_icons=true&theme=radical&hide_border=true&title_color=FF006E&icon_color=FFBE0B&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BlackBeanEagles&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats"/>
 
 </td>
 </tr>
@@ -127,10 +104,9 @@ $ hridya status
 
 ---
 
-## `🎧 > hridya.on_the_decks`
+## Spotify & WakaTime
 
 ### Spotify
-
 <!-- SPOTIFY_NOW_PLAYING:START -->
 <table>
 <tr>
@@ -149,37 +125,30 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 <!-- SPOTIFY_NOW_PLAYING:END -->
 
 ### WakaTime
-
 <!-- WAKATIME_STATS:START -->
 | This week | Status |
 | :--- | :--- |
 | **Coding time** | Connect WakaTime to go live |
 | **Setup** | Add `WAKATIME_API_KEY` in repo secrets |
 
-[Get your API key](https://wakatime.com/settings/api-key)
+[Get API key](https://wakatime.com/settings/api-key)
 <!-- WAKATIME_STATS:END -->
 
 <details>
-<summary><b>Setup Spotify & WakaTime secrets</b> · one-time</summary>
+<summary><b>Setup Spotify & WakaTime</b></summary>
 <br/>
 
-**Spotify**
-1. Create an app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications)
-2. Add redirect URI: `http://127.0.0.1:8080/callback`
-3. Run locally: `python scripts/get_spotify_refresh_token.py`
-4. Add GitHub secrets: `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN`
+**Spotify:** [Developer Dashboard](https://developer.spotify.com/dashboard/applications) → add redirect `http://127.0.0.1:8080/callback` → run `python scripts/get_spotify_refresh_token.py` → add GitHub secrets.
 
-**WakaTime**
-1. Copy your API key from [WakaTime API settings](https://wakatime.com/settings/api-key)
-2. Add GitHub secrets: `WAKATIME_API_KEY` and optional `WAKATIME_USERNAME`
+**WakaTime:** Copy key from [settings](https://wakatime.com/settings/api-key) → add `WAKATIME_API_KEY` secret.
 
 </details>
 
 ---
 
-## `🚀 > hridya.bangers --featured`
+## Featured projects
 
-<p align="center"><i>Tap a card — these repos go hard ↓</i></p>
+<p align="center"><i>Click a card to open the repo</i></p>
 
 <table>
 <tr>
@@ -187,13 +156,13 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 <a href="https://github.com/BlackBeanEagles/Commit-Message-Therapist">
 <img src="https://opengraph.githubassets.com/1/BlackBeanEagles/Commit-Message-Therapist" width="100%" alt="Commit-Message-Therapist"/>
 </a>
-<br/><b>Commit-Message-Therapist</b> · TypeScript · your commits need therapy (same)
+<br/><b>Commit-Message-Therapist</b> · TypeScript · AI commit messages from your diffs
 </td>
 <td width="50%">
 <a href="https://github.com/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain">
 <img src="https://opengraph.githubassets.com/1/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain" width="100%" alt="ReflectAI"/>
 </a>
-<br/><b>ReflectAI</b> · Python · AI interview prep that actually cooks
+<br/><b>ReflectAI</b> · Python · AI interview prep coach
 </td>
 </tr>
 <tr>
@@ -201,13 +170,13 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 <a href="https://github.com/BlackBeanEagles/NeutronNoodle">
 <img src="https://opengraph.githubassets.com/1/BlackBeanEagles/NeutronNoodle" width="100%" alt="NeutronNoodle"/>
 </a>
-<br/><b>NeutronNoodle</b> · TypeScript · Full-stack architecture & APIs
+<br/><b>NeutronNoodle</b> · TypeScript · Full-stack APIs
 </td>
 <td width="50%">
 <a href="https://github.com/BlackBeanEagles/TechNest-Secured">
 <img src="https://opengraph.githubassets.com/1/BlackBeanEagles/TechNest-Secured" width="100%" alt="TechNest-Secured"/>
 </a>
-<br/><b>TechNest-Secured</b> · JavaScript · Security-first web application
+<br/><b>TechNest-Secured</b> · JavaScript · Security-first web app
 </td>
 </tr>
 <tr>
@@ -221,93 +190,31 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 <a href="https://github.com/BlackBeanEagles/Threshold-Valve-Service">
 <img src="https://opengraph.githubassets.com/1/BlackBeanEagles/Threshold-Valve-Service" width="100%" alt="Threshold-Valve-Service"/>
 </a>
-<br/><b>Threshold-Valve-Service</b> · Python · Threshold-based backend service
+<br/><b>Threshold-Valve-Service</b> · Python · Backend service
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>📂 Deep dive — expand any project</b></summary>
-<br/>
+---
 
-<details>
-<summary><b>Commit-Message-Therapist</b> — stop writing "fixed stuff" commits</summary>
+## Stats
 
-AI-powered workflow that reads your changes and suggests conventional, meaningful commit messages.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D0221&color=FF006E&line=FFBE0B&point=00F5FF&area=true&hide_border=false&custom_title=Contribution%20Graph" width="100%" alt="Activity graph"/>
+</p>
 
-→ [Open repo](https://github.com/BlackBeanEagles/Commit-Message-Therapist)
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=radical&hide_border=false" height="165" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=compact&theme=radical&hide_border=false&langs_count=8" height="165" alt="Languages"/>
+</p>
 
-</details>
-
-<details>
-<summary><b>ReflectAI</b> — practice interviews with an AI brain</summary>
-
-Interview prep tool that helps you reflect on answers, improve structure, and build confidence.
-
-→ [Open repo](https://github.com/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain)
-
-</details>
-
-<details>
-<summary><b>TechNest-Secured</b> — security baked in, not bolted on</summary>
-
-Web app focused on auth hardening, validation, and secure-by-default patterns.
-
-→ [Open repo](https://github.com/BlackBeanEagles/TechNest-Secured)
-
-</details>
-
-<details>
-<summary><b>Justredact</b> — redact before you share</summary>
-
-Hide sensitive fields in documents before sending them anywhere.
-
-→ [Open repo](https://github.com/BlackBeanEagles/Justredact)
-
-</details>
-
-</details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=radical&no-frame=true&column=4&row=2&margin-w=10&margin-h=10" width="100%" alt="GitHub trophies"/>
+</p>
 
 ---
 
-## `📈 > hridya.flex --stats`
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D0221&color=FF006E&line=FFBE0B&point=00F5FF&area=true&hide_border=true&custom_title=Funk%20Pulse"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=FFF0F5&color=8338EC&line=FF006E&point=FFBE0B&area=true&hide_border=true&custom_title=Funk%20Pulse"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D0221&color=FF006E&line=FFBE0B&point=00F5FF&area=true&hide_border=true&custom_title=Funk%20Pulse" alt="Contribution activity graph"/>
-</picture>
-
-</td>
-<td width="45%" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=radical&hide_border=true&background=0D0221&ring=FF006E&fire=FFBE0B&currStreakLabel=00F5FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=radical&hide_border=true&background=FFF0F5&ring=8338EC&fire=FF006E&currStreakLabel=FFBE0B"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=radical&hide_border=true&background=0D0221&ring=FF006E&fire=FFBE0B&currStreakLabel=00F5FF" width="100%" alt="Streak"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF006E&text_color=FFFFFF&langs_count=6"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=8338EC&text_color=0D0221&langs_count=6"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF006E&text_color=FFFFFF&langs_count=6" width="100%" alt="Languages"/>
-</picture>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="GitHub trophies"/>
-
----
-
-## `📦 > hridya.repos --fresh`
+## Recent repos
 
 <!-- RECENT_REPOS:START -->
 - [zapsafe-mobile](https://github.com/BlackBeanEagles/zapsafe-mobile) — Dart · 2026-06-09
@@ -320,46 +227,32 @@ Hide sensitive fields in documents before sending them anywhere.
 
 ---
 
-## `🐍 > hridya.snake --disco`
+## Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/github-snake.gif" alt="Contribution snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/github-snake-dark.svg" alt="Contribution graph with snake"/>
+  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/github-snake-dark.gif" width="100%" alt="Contribution snake animation"/>
 </p>
 
 ---
 
-## `🎸 > hridya.stack --tools`
+## Tech stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=dark" alt="Tech stack icons"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=dark" height="80" alt="Tech stack"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=3500&pause=900&color=FF006E&center=true&width=560&lines=Stay+funky+%C2%B7+stay+shipping+%C2%B7+catch+you+on+LinkedIn;You+made+it+to+the+bottom+%E2%80%94+absolute+legend.;Built+different+%C2%B7+deployed+daily"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=900&color=8338EC&center=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together."/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/hridyajain">
-    <img src="https://img.shields.io/badge/Let's_get_this+bread-FF006E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/disco-strip.svg" alt="Funk mode"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:FFBE0B&height=100&section=footer"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:8338EC,100:FF006E&height=100&section=footer"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:FFBE0B&height=100&section=footer" width="100%" alt="Footer wave"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:8338EC,100:FF006E&height=80&section=footer" width="100%" alt="Footer"/>
 </p>

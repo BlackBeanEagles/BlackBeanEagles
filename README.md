@@ -123,12 +123,7 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 
 ### WakaTime
 <!-- WAKATIME_STATS:START -->
-| This week | Status |
-| :--- | :--- |
-| **Coding time** | Connect WakaTime to go live |
-| **Setup** | Add `WAKATIME_API_KEY` in repo secrets |
-
-[Get API key](https://wakatime.com/settings/api-key)
+**WakaTime:** unable to fetch stats right now.
 <!-- WAKATIME_STATS:END -->
 
 <details>

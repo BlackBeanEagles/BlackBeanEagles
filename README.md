@@ -107,14 +107,14 @@ $ hridya status
 <!-- SPOTIFY_NOW_PLAYING:START -->
 <table>
 <tr>
-<td width="72">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+<td width="84" align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d47" width="72" height="72" alt="Thriller album art"/>
 </td>
 <td>
 
-**Now playing** · awaiting connection
+**Vibe check:** [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCcElO) · Michael Jackson
 
-Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` to go live.
+*Thriller* · connect Spotify secrets for live now-playing
 
 </td>
 </tr>
@@ -123,7 +123,13 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 
 ### WakaTime
 <!-- WAKATIME_STATS:START -->
-**WakaTime:** unable to fetch stats right now.
+| Status | Action |
+| :--- | :--- |
+| **Connected** | API key works |
+| **Next step** | Set your [timezone in WakaTime settings](https://wakatime.com/settings/account) |
+| **Then** | Install the WakaTime plugin in Cursor/VS Code and start coding |
+
+*Free plan · stats appear after your first coding session*
 <!-- WAKATIME_STATS:END -->
 
 <details>

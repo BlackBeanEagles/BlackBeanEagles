@@ -1,12 +1,8 @@
 <!-- Profile README · https://github.com/BlackBeanEagles · Mission Control layout -->
 
-<p align="center">
-  <img src="./assets/welcome-confetti.svg" width="100%" alt="Welcome confetti celebration animation"/>
-</p>
+<img src="./assets/welcome-confetti.svg" width="100%" alt="Full-width sideways confetti celebration"/>
 
-<p align="center">
-  <img src="./assets/celebration-parade.svg" width="100%" alt="Multiple celebration pop animation"/>
-</p>
+<img src="./assets/celebration-parade.svg" width="100%" alt="Sideways celebration parade across screen"/>
 
 <p align="center">
   <picture>
@@ -43,19 +39,17 @@
 </p>
 
 <details>
-<summary><b>🎊 Celebration mode</b> · click for boomerang + bonus confetti</summary>
+<summary><b>🎊 Celebration mode</b> · click for extra sideways burst</summary>
 <br/>
 
-<p align="center">
-  <img src="./assets/celebration-boomerang.svg" width="100%" alt="Boomerang celebration loop"/>
-</p>
+<img src="./assets/welcome-confetti.svg" width="100%" alt="Extra full-width sideways confetti"/>
+
+<img src="./assets/celebration-boomerang.svg" width="100%" alt="Boomerang celebration loop"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="280" alt="Confetti celebration gif"/>
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="280" alt="Party celebration gif"/>
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="48%" alt="Confetti celebration gif"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="48%" alt="Party celebration gif"/>
 </p>
-
-<p align="center"><i>GitHub profiles can't run JavaScript — these celebrations auto-play when your page loads!</i></p>
 
 </details>
 
@@ -377,10 +371,8 @@ Hide sensitive fields in documents before sending them anywhere.
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/celebration-parade.svg" width="100%" alt="Goodbye celebration parade"/>
-  <img src="./assets/welcome-confetti.svg" width="100%" alt="Thanks for visiting celebration"/>
-</p>
+<img src="./assets/welcome-confetti.svg" width="100%" alt="Full-width sideways farewell celebration"/>
+<img src="./assets/celebration-parade.svg" width="100%" alt="Sideways parade farewell"/>
 
 <p align="center">
   <picture>

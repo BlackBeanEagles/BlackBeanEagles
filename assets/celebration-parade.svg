@@ -1,26 +1,163 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80" role="img" aria-label="Multiple celebration pop animation">
-  <g transform="translate(100 40)">
-    <text text-anchor="middle" y="8" font-size="28"><Š</text>
-    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="90" viewBox="0 0 1600 90" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Sideways celebration parade">
+  <rect x="0" y="0" width="1600" height="90" fill="transparent"/>
+  <g transform="translate(-80 4)">
+    <text fill="#06B6D4" font-family="ui-monospace, monospace" font-size="22" font-weight="700">*</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 4; 400 12; 500 8" dur="1.8s" begin="0.0s" repeatCount="indefinite"/>
   </g>
-  <g transform="translate(220 40)">
-    <text text-anchor="middle" y="8" font-size="28">>s</text>
-    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  <g transform="translate(-80 8)">
+    <text fill="#7C3AED" font-family="ui-monospace, monospace" font-size="22" font-weight="700">+</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 8; 453 16; 553 12" dur="2.0s" begin="0.12s" repeatCount="indefinite"/>
   </g>
-  <g transform="translate(340 40)">
-    <text text-anchor="middle" y="8" font-size="28"><‰</text>
-    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  <g transform="translate(-80 12)">
+    <text fill="#EC4899" font-family="ui-monospace, monospace" font-size="22" font-weight="700">x</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 12; 506 20; 606 16" dur="2.2s" begin="0.24s" repeatCount="indefinite"/>
   </g>
-  <g transform="translate(460 40)">
-    <text text-anchor="middle" y="8" font-size="28">(</text>
-    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+  <g transform="translate(-80 16)">
+    <text fill="#F59E0B" font-family="ui-monospace, monospace" font-size="22" font-weight="700">o</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 16; 559 24; 659 20" dur="2.4000000000000004s" begin="0.36s" repeatCount="indefinite"/>
   </g>
-  <g transform="translate(580 40)">
-    <text text-anchor="middle" y="8" font-size="28"><Æ</text>
-    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+  <g transform="translate(-80 20)">
+    <text fill="#22C55E" font-family="ui-monospace, monospace" font-size="22" font-weight="700">></text>
+    <animateTransform attributeName="transform" type="translate" values="-80 20; 612 28; 712 24" dur="2.6s" begin="0.48s" repeatCount="indefinite"/>
   </g>
-  <g transform="translate(700 40)">
-    <text text-anchor="middle" y="8" font-size="28">=œ</text>
-    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+  <g transform="translate(-80 24)">
+    <text fill="#E879F9" font-family="ui-monospace, monospace" font-size="22" font-weight="700"><</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 24; 665 32; 765 28" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 28)">
+    <text fill="#06B6D4" font-family="ui-monospace, monospace" font-size="22" font-weight="700">~</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 28; 718 36; 818 32" dur="2.0s" begin="0.72s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 32)">
+    <text fill="#7C3AED" font-family="ui-monospace, monospace" font-size="22" font-weight="700">^</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 32; 771 40; 871 36" dur="2.2s" begin="0.84s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 36)">
+    <text fill="#EC4899" font-family="ui-monospace, monospace" font-size="22" font-weight="700">*</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 36; 824 44; 924 40" dur="2.4000000000000004s" begin="0.0s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 40)">
+    <text fill="#F59E0B" font-family="ui-monospace, monospace" font-size="22" font-weight="700">+</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 40; 877 48; 977 44" dur="2.6s" begin="0.12s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 44)">
+    <text fill="#22C55E" font-family="ui-monospace, monospace" font-size="22" font-weight="700">x</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 44; 930 52; 1030 48" dur="1.8s" begin="0.24s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 48)">
+    <text fill="#E879F9" font-family="ui-monospace, monospace" font-size="22" font-weight="700">o</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 48; 983 56; 1083 52" dur="2.0s" begin="0.36s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 52)">
+    <text fill="#06B6D4" font-family="ui-monospace, monospace" font-size="22" font-weight="700">></text>
+    <animateTransform attributeName="transform" type="translate" values="-80 52; 1036 60; 1136 56" dur="2.2s" begin="0.48s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 56)">
+    <text fill="#7C3AED" font-family="ui-monospace, monospace" font-size="22" font-weight="700"><</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 56; 1089 64; 1189 60" dur="2.4000000000000004s" begin="0.6s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 60)">
+    <text fill="#EC4899" font-family="ui-monospace, monospace" font-size="22" font-weight="700">~</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 60; 1142 68; 1242 64" dur="2.6s" begin="0.72s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 64)">
+    <text fill="#F59E0B" font-family="ui-monospace, monospace" font-size="22" font-weight="700">^</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 64; 1195 72; 1295 68" dur="1.8s" begin="0.84s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 68)">
+    <text fill="#22C55E" font-family="ui-monospace, monospace" font-size="22" font-weight="700">*</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 68; 448 76; 548 72" dur="2.0s" begin="0.0s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 72)">
+    <text fill="#E879F9" font-family="ui-monospace, monospace" font-size="22" font-weight="700">+</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 72; 501 80; 601 76" dur="2.2s" begin="0.12s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 6)">
+    <text fill="#06B6D4" font-family="ui-monospace, monospace" font-size="22" font-weight="700">x</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 6; 554 14; 654 10" dur="2.4000000000000004s" begin="0.24s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(-80 10)">
+    <text fill="#7C3AED" font-family="ui-monospace, monospace" font-size="22" font-weight="700">o</text>
+    <animateTransform attributeName="transform" type="translate" values="-80 10; 607 18; 707 14" dur="2.6s" begin="0.36s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 10)">
+    <text fill="#F59E0B" font-family="ui-monospace, monospace" font-size="22" font-weight="700">x</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 10; 1200 18; 1100 22" dur="1.7s" begin="0.08s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 14)">
+    <text fill="#22C55E" font-family="ui-monospace, monospace" font-size="22" font-weight="700">o</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 14; 1153 22; 1053 26" dur="1.88s" begin="0.22000000000000003s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 18)">
+    <text fill="#E879F9" font-family="ui-monospace, monospace" font-size="22" font-weight="700">></text>
+    <animateTransform attributeName="transform" type="translate" values="1680 18; 1106 26; 1006 30" dur="2.06s" begin="0.36000000000000004s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 22)">
+    <text fill="#06B6D4" font-family="ui-monospace, monospace" font-size="22" font-weight="700"><</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 22; 1059 30; 959 34" dur="2.24s" begin="0.5s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 26)">
+    <text fill="#7C3AED" font-family="ui-monospace, monospace" font-size="22" font-weight="700">~</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 26; 1012 34; 912 38" dur="2.42s" begin="0.64s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 30)">
+    <text fill="#EC4899" font-family="ui-monospace, monospace" font-size="22" font-weight="700">^</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 30; 965 38; 865 42" dur="2.5999999999999996s" begin="0.78s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 34)">
+    <text fill="#F59E0B" font-family="ui-monospace, monospace" font-size="22" font-weight="700">*</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 34; 918 42; 818 46" dur="1.7s" begin="0.92s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 38)">
+    <text fill="#22C55E" font-family="ui-monospace, monospace" font-size="22" font-weight="700">+</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 38; 871 46; 771 50" dur="1.88s" begin="0.08s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 42)">
+    <text fill="#E879F9" font-family="ui-monospace, monospace" font-size="22" font-weight="700">x</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 42; 824 50; 724 54" dur="2.06s" begin="0.22000000000000003s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 46)">
+    <text fill="#06B6D4" font-family="ui-monospace, monospace" font-size="22" font-weight="700">o</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 46; 777 54; 677 58" dur="2.24s" begin="0.36000000000000004s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 50)">
+    <text fill="#7C3AED" font-family="ui-monospace, monospace" font-size="22" font-weight="700">></text>
+    <animateTransform attributeName="transform" type="translate" values="1680 50; 730 58; 630 62" dur="2.42s" begin="0.5s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 54)">
+    <text fill="#EC4899" font-family="ui-monospace, monospace" font-size="22" font-weight="700"><</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 54; 683 62; 583 66" dur="2.5999999999999996s" begin="0.64s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 58)">
+    <text fill="#F59E0B" font-family="ui-monospace, monospace" font-size="22" font-weight="700">~</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 58; 636 66; 536 70" dur="1.7s" begin="0.78s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 62)">
+    <text fill="#22C55E" font-family="ui-monospace, monospace" font-size="22" font-weight="700">^</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 62; 589 70; 489 74" dur="1.88s" begin="0.92s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 66)">
+    <text fill="#E879F9" font-family="ui-monospace, monospace" font-size="22" font-weight="700">*</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 66; 542 74; 442 78" dur="2.06s" begin="0.08s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 70)">
+    <text fill="#06B6D4" font-family="ui-monospace, monospace" font-size="22" font-weight="700">+</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 70; 495 78; 395 82" dur="2.24s" begin="0.22000000000000003s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 74)">
+    <text fill="#7C3AED" font-family="ui-monospace, monospace" font-size="22" font-weight="700">x</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 74; 448 82; 348 86" dur="2.42s" begin="0.36000000000000004s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 13)">
+    <text fill="#EC4899" font-family="ui-monospace, monospace" font-size="22" font-weight="700">o</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 13; 401 21; 301 25" dur="2.5999999999999996s" begin="0.5s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 17)">
+    <text fill="#F59E0B" font-family="ui-monospace, monospace" font-size="22" font-weight="700">></text>
+    <animateTransform attributeName="transform" type="translate" values="1680 17; 1154 25; 1054 29" dur="1.7s" begin="0.64s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(1680 21)">
+    <text fill="#22C55E" font-family="ui-monospace, monospace" font-size="22" font-weight="700"><</text>
+    <animateTransform attributeName="transform" type="translate" values="1680 21; 1107 29; 1007 33" dur="1.88s" begin="0.78s" repeatCount="indefinite"/>
   </g>
 </svg>

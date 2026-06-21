@@ -1,30 +1,20 @@
-<!-- Profile README · https://github.com/BlackBeanEagles · FUNK EDITION 🪩 -->
+<!-- Profile README · https://github.com/BlackBeanEagles · FUNK EDITION -->
 
-<img src="./assets/welcome-confetti.svg" width="100%" alt="Full-width sideways confetti celebration"/>
+<!-- Assets base: https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/ -->
 
-<img src="./assets/celebration-parade.svg" width="100%" alt="Sideways celebration parade across screen"/>
+<img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/welcome-confetti.svg" width="100%" alt="Sideways confetti celebration"/>
+
+<img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/celebration-parade.svg" width="100%" alt="Sideways celebration parade"/>
 
 <p align="center">
-  <img src="./assets/disco-strip.svg" width="100%" alt="Neon disco strip"/>
+  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/disco-strip.svg" alt="Funk mode activated"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=stay+funky+%C2%B7+stay+shipping&descSize=18&descAlignY=58&descAlign=50"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:FF006E,100:FFBE0B&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=0D0221&animation=twinkling&fontAlignY=38&desc=stay+funky+%C2%B7+stay+shipping&descSize=18&descAlignY=58&descAlign=50"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=stay+funky+%C2%B7+stay+shipping&descSize=18&descAlignY=58&descAlign=50" alt="Hridya Jain funky profile banner"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="./assets/disco-strip.svg" width="100%" alt="Neon disco strip"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/theme-mode-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/theme-mode-light.svg"/>
-    <img src="./assets/theme-mode-light.svg" alt="Theme follows your system dark or light preference"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI+%C2%B7+Security+%C2%B7+Full-Stack+%C2%B7+Funk&descSize=18&descAlignY=58&descAlign=50"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:FF006E,100:FFBE0B&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=0D0221&animation=twinkling&fontAlignY=38&desc=AI+%C2%B7+Security+%C2%B7+Full-Stack+%C2%B7+Funk&descSize=18&descAlignY=58&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI+%C2%B7+Security+%C2%B7+Full-Stack+%C2%B7+Funk&descSize=18&descAlignY=58&descAlign=50" alt="Hridya Jain profile banner"/>
   </picture>
 </p>
 
@@ -37,7 +27,7 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/funky-status.svg" alt="Funky live status"/>
+  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/funky-status.svg" alt="Live status"/>
 </p>
 
 <p align="center">
@@ -50,13 +40,10 @@
 <summary><b>🪩 CELEBRATION MODE</b> · click if you can handle the funk</summary>
 <br/>
 
-<img src="./assets/welcome-confetti.svg" width="100%" alt="Extra full-width sideways confetti"/>
-
-<img src="./assets/celebration-boomerang.svg" width="100%" alt="Boomerang celebration loop"/>
+<img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/welcome-confetti.svg" width="100%" alt="Extra confetti burst"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sKonkafW92/giphy.gif" width="48%" alt="Disco funk gif"/>
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="48%" alt="Party celebration gif"/>
+  <img src="https://media.giphy.com/media/26BRuo6sKonkafW92/giphy.gif" width="320" alt="Disco gif"/>
 </p>
 
 </details>
@@ -64,8 +51,6 @@
 <!-- DEV_QUOTE:START -->
 > *"Ship code like it's a summer drop — loud, clean, and impossible to ignore."*
 <!-- DEV_QUOTE:END -->
-
-<p align="center"><img src="./assets/disco-strip.svg" width="100%" alt="Disco divider"/></p>
 
 ---
 
@@ -140,55 +125,28 @@ $ hridya status
 </tr>
 </table>
 
-<p align="center"><img src="./assets/disco-strip.svg" width="100%" alt="Disco divider"/></p>
-
 ---
 
 ## `🎧 > hridya.on_the_decks`
 
-<p align="center"><i>Spotify + WakaTime refresh every 15 min · vibes are automated</i></p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Spotify
 
 <!-- SPOTIFY_NOW_PLAYING:START -->
-<table>
-<tr>
-<td width="72">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-</td>
-<td>
-
 **Now playing** · awaiting connection
 
 Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` to go live.
-
-</td>
-</tr>
-</table>
 <!-- SPOTIFY_NOW_PLAYING:END -->
-
-</td>
-<td width="50%" valign="top">
 
 ### WakaTime
 
 <!-- WAKATIME_STATS:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF006E&text_color=FFFFFF&layout=compact"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=8338EC&text_color=0D0221&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=radical&hide_border=true&layout=compact" alt="WakaTime coding stats"/>
-</picture>
+| This week | Status |
+| :--- | :--- |
+| **Coding time** | Connect WakaTime to go live |
+| **Setup** | Add `WAKATIME_API_KEY` in repo secrets |
 
-*Add `WAKATIME_API_KEY` secret for live weekly coding breakdown.*
+[Get your API key](https://wakatime.com/settings/api-key)
 <!-- WAKATIME_STATS:END -->
-
-</td>
-</tr>
-</table>
 
 <details>
 <summary><b>Setup Spotify & WakaTime secrets</b> · one-time</summary>
@@ -334,9 +292,7 @@ Hide sensitive fields in documents before sending them anywhere.
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" alt="Trophies"/>
-
-<p align="center"><img src="./assets/disco-strip.svg" width="100%" alt="Disco divider"/></p>
+<img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 
 ---
 
@@ -356,11 +312,11 @@ Hide sensitive fields in documents before sending them anywhere.
 ## `🐍 > hridya.snake --disco`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg"/>
-    <img alt="Snake eating my GitHub contributions" src="./assets/github-snake.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/github-snake.gif" alt="Contribution snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/github-snake-dark.svg" alt="Contribution graph with snake"/>
 </p>
 
 ---
@@ -385,8 +341,9 @@ Hide sensitive fields in documents before sending them anywhere.
   </a>
 </p>
 
-<img src="./assets/welcome-confetti.svg" width="100%" alt="Full-width sideways farewell celebration"/>
-<img src="./assets/celebration-parade.svg" width="100%" alt="Sideways parade farewell"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/disco-strip.svg" alt="Funk mode"/>
+</p>
 
 <p align="center">
   <picture>

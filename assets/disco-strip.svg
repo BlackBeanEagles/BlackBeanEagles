@@ -1,22 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48" role="img" aria-label="Neon disco strip">
-  <defs>
-    <linearGradient id="disco" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF006E"/>
-      <stop offset="25%" stop-color="#8338EC"/>
-      <stop offset="50%" stop-color="#FFBE0B"/>
-      <stop offset="75%" stop-color="#00F5FF"/>
-      <stop offset="100%" stop-color="#39FF14"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="48" fill="#0D0221"/>
-  <rect y="18" width="800" height="12" fill="url(#disco)" opacity="0.9">
-    <animate attributeName="x" values="0;-40;0" dur="2s" repeatCount="indefinite"/>
-  </rect>
-  <text x="400" y="32" text-anchor="middle" fill="#FFBE0B" font-family="ui-monospace, monospace" font-size="13" font-weight="700">FUNK MODE ACTIVATED</text>
-  <circle cx="30" cy="24" r="6" fill="#FF006E">
-    <animate attributeName="opacity" values="1;0.2;1" dur="0.6s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40" role="img" aria-label="Neon disco strip">
+  <rect width="800" height="40" rx="8" fill="#0D0221"/>
+  <rect x="8" y="16" width="784" height="8" rx="4" fill="#8338EC" opacity="0.35"/>
+  <circle cx="20" cy="20" r="5" fill="#FF006E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="770" cy="24" r="6" fill="#00F5FF">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="0.6s" repeatCount="indefinite"/>
+  <circle cx="780" cy="20" r="5" fill="#00F5FF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/>
   </circle>
+  <text x="400" y="25" text-anchor="middle" fill="#FFBE0B" font-family="monospace" font-size="13" font-weight="700">FUNK MODE ACTIVATED</text>
 </svg>

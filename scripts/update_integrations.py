@@ -162,14 +162,13 @@ def build_wakatime_section() -> str:
     username = os.environ.get("WAKATIME_USERNAME", "current")
 
     if not api_key:
-        return f"""<!-- WAKATIME_STATS:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username={username}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&layout=compact"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username={username}&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username={username}&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime coding stats"/>
-</picture>
+        return """<!-- WAKATIME_STATS:START -->
+| This week | Status |
+| :--- | :--- |
+| **Coding time** | Connect WakaTime to go live |
+| **Setup** | Add `WAKATIME_API_KEY` in repo secrets |
 
-*Add `WAKATIME_API_KEY` secret for live weekly coding breakdown.*
+[Get your API key](https://wakatime.com/settings/api-key)
 <!-- WAKATIME_STATS:END -->"""
 
     auth = base64.b64encode(f"{api_key}:".encode()).decode()

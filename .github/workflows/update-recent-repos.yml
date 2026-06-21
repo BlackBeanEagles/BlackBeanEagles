@@ -1,0 +1,52 @@
+# Updates the "Recently pushed repos" section in README.md daily.
+name: Update Recent Repos
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and patch recent repos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          export REPOS=$(gh api user/repos \
+            --paginate \
+            -q 'sort_by(.pushed_at) | reverse | .[0:6] | map(select(.name != "BlackBeanEagles")) | .[] | "- [\(.name)](\(.html_url)) — \(.language // "Multi") · updated \(.pushed_at | split("T")[0])"')
+
+          python3 << 'PYEOF'
+          import os
+          import re
+
+          repos = os.environ["REPOS"]
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = re.compile(
+              r"<!-- RECENT_REPOS:START -->.*?<!-- RECENT_REPOS:END -->",
+              re.DOTALL,
+          )
+          replacement = f"<!-- RECENT_REPOS:START -->\n{repos}\n<!-- RECENT_REPOS:END -->"
+          updated = pattern.sub(replacement, content)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          PYEOF
+
+      - name: Commit and push README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update recent repos list"
+          git push

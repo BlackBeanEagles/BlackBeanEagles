@@ -224,11 +224,13 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 
 ---
 
-## Contribution snake
+## Nokia snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/github-snake-dark.gif" width="100%" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/BlackBeanEagles/BlackBeanEagles/main/assets/nokia-snake.gif" width="100%" alt="Nokia 3310 snake game — random dots, snake eats them"/>
 </p>
+
+<p align="center"><sub>Classic 3310 vibes · random food dots · auto-regenerated daily</sub></p>
 
 ---
 

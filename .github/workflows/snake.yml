@@ -1,4 +1,4 @@
-# Generates a snake animation from the GitHub contribution graph and commits SVG assets.
+# Generates Nokia-style snake GIF and GitHub contribution snake assets.
 name: Generate Snake
 
 on:
@@ -21,18 +21,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Nokia snake GIF
+        run: |
+          pip install pillow
+          python scripts/generate_nokia_snake_gif.py
+
+      - name: Generate contribution snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: BlackBeanEagles
           outputs: |
-            assets/github-snake-dark.gif?palette=github-dark&color_snake=FF006E&color_dots=FFB700,8957E5,00D4FF,39D353
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
 
       - name: Commit and push snake animation
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/
-          git diff --staged --quiet || git commit -m "chore: update contribution snake animation"
+          git diff --staged --quiet || git commit -m "chore: update snake animations"
           git pull --rebase origin main
           git push

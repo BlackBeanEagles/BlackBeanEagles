@@ -1,6 +1,14 @@
 <!-- Profile README · https://github.com/BlackBeanEagles · Mission Control layout -->
 
 <p align="center">
+  <img src="./assets/welcome-confetti.svg" width="100%" alt="Welcome confetti celebration animation"/>
+</p>
+
+<p align="center">
+  <img src="./assets/celebration-parade.svg" width="100%" alt="Multiple celebration pop animation"/>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:06B6D4&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50"/>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:C4B5FD,100:67E8F9&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=0F172A&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50"/>
@@ -33,6 +41,23 @@
   <a href="https://github.com/BlackBeanEagles?tab=repositories"><img src="https://img.shields.io/badge/Repos-explore-181717?style=flat-square&logo=github" alt="Repos"/></a>
   <img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=visitors&color=7C3AED&style=flat-square" alt="Visitors"/>
 </p>
+
+<details>
+<summary><b>🎊 Celebration mode</b> · click for boomerang + bonus confetti</summary>
+<br/>
+
+<p align="center">
+  <img src="./assets/celebration-boomerang.svg" width="100%" alt="Boomerang celebration loop"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="280" alt="Confetti celebration gif"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="280" alt="Party celebration gif"/>
+</p>
+
+<p align="center"><i>GitHub profiles can't run JavaScript — these celebrations auto-play when your page loads!</i></p>
+
+</details>
 
 <!-- DEV_QUOTE:START -->
 > *"AI amplifies intent. Clear intent amplifies impact."*
@@ -350,6 +375,11 @@ Hide sensitive fields in documents before sending them anywhere.
   <a href="https://linkedin.com/in/hridyajain">
     <img src="https://img.shields.io/badge/Let's_build_together-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="./assets/celebration-parade.svg" width="100%" alt="Goodbye celebration parade"/>
+  <img src="./assets/welcome-confetti.svg" width="100%" alt="Thanks for visiting celebration"/>
 </p>
 
 <p align="center">

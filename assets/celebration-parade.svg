@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80" role="img" aria-label="Multiple celebration pop animation">
+  <g transform="translate(100 40)">
+    <text text-anchor="middle" y="8" font-size="28"><Š</text>
+    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(220 40)">
+    <text text-anchor="middle" y="8" font-size="28">>s</text>
+    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(340 40)">
+    <text text-anchor="middle" y="8" font-size="28"><‰</text>
+    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(460 40)">
+    <text text-anchor="middle" y="8" font-size="28">(</text>
+    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(580 40)">
+    <text text-anchor="middle" y="8" font-size="28"><Æ</text>
+    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(700 40)">
+    <text text-anchor="middle" y="8" font-size="28">=œ</text>
+    <animateTransform attributeName="transform" type="scale" values="0.6;1.2;1;1.15;1" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+  </g>
+</svg>

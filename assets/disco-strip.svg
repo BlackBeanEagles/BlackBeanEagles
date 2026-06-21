@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48" role="img" aria-label="Neon disco strip">
+  <defs>
+    <linearGradient id="disco" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF006E"/>
+      <stop offset="25%" stop-color="#8338EC"/>
+      <stop offset="50%" stop-color="#FFBE0B"/>
+      <stop offset="75%" stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#39FF14"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="48" fill="#0D0221"/>
+  <rect y="18" width="800" height="12" fill="url(#disco)" opacity="0.9">
+    <animate attributeName="x" values="0;-40;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="400" y="32" text-anchor="middle" fill="#FFBE0B" font-family="ui-monospace, monospace" font-size="13" font-weight="700">FUNK MODE ACTIVATED</text>
+  <circle cx="30" cy="24" r="6" fill="#FF006E">
+    <animate attributeName="opacity" values="1;0.2;1" dur="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="770" cy="24" r="6" fill="#00F5FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="0.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -12,13 +12,13 @@ import urllib.request
 from datetime import datetime, timezone
 
 QUOTES = [
-    "The best error message is the one that never appears.",
-    "Security is not a product — it is a process.",
-    "First solve the problem. Then write the code.",
-    "Good commits tell a story. Great commits tell the truth.",
-    "AI amplifies intent. Clear intent amplifies impact.",
-    "Ship small. Ship often. Ship securely.",
-    "Make it work, make it right, make it fast — in that order.",
+    "Ship code like it's a summer drop — loud, clean, impossible to ignore.",
+    "Security isn't boring. Your password 'password123' is boring.",
+    "Good commits tell a story. Great commits have main character energy.",
+    "AI amplifies intent. Chaos amplifies debugging at 2am.",
+    "Make it work, make it right, make it funky.",
+    "If it compiles on the first try, something's wrong.",
+    "Built different. Deployed daily. Vibes immaculate.",
 ]
 
 

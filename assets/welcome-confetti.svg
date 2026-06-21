@@ -1,325 +1,325 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 1600 280" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Full screen sideways celebration">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.10"/>
-      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.14"/>
-      <stop offset="100%" stop-color="#EC4899" stop-opacity="0.10"/>
+      <stop offset="0%" stop-color="#FF006E" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#8338EC" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#FFBE0B" stop-opacity="0.12"/>
     </linearGradient>
     <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06B6D4"/>
-      <stop offset="50%" stop-color="#E879F9"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
+      <stop offset="0%" stop-color="#FF006E"/>
+      <stop offset="50%" stop-color="#FFBE0B"/>
+      <stop offset="100%" stop-color="#00F5FF"/>
     </linearGradient>
   </defs>
   <rect x="0" y="0" width="1600" height="280" fill="url(#bg)"/>
-  <rect x="-80" y="18" width="10" height="16" fill="#06B6D4" rx="2">
+  <rect x="-80" y="18" width="10" height="16" fill="#FF006E" rx="2">
     <animate attributeName="x" values="-120;500;580" dur="2.2s" begin="0.0s" repeatCount="indefinite"/>
     <animate attributeName="y" values="10;24;18" dur="2.2s" begin="0.0s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="27" r="6" fill="#7C3AED">
+  <circle cy="27" r="6" fill="#8338EC">
     <animate attributeName="cx" values="-60;537;637" dur="2.45s" begin="0.18s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="15;37;27" dur="2.45s" begin="0.18s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.45s" begin="0.18s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#EC4899" points="0,0 6,0 3,10" transform="translate(-80 36)">
+  <polygon fill="#FFBE0B" points="0,0 6,0 3,10" transform="translate(-80 36)">
     <animateTransform attributeName="transform" type="translate" values="-120 36; 574 40; 694 36" dur="2.7s" begin="0.36s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.7s" begin="0.36s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="45" width="10" height="16" fill="#F59E0B" rx="2">
+  <rect x="-80" y="45" width="10" height="16" fill="#00F5FF" rx="2">
     <animate attributeName="x" values="-120;611;691" dur="2.95s" begin="0.54s" repeatCount="indefinite"/>
     <animate attributeName="y" values="37;51;45" dur="2.95s" begin="0.54s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.95s" begin="0.54s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="54" r="6" fill="#22C55E">
+  <circle cy="54" r="6" fill="#39FF14">
     <animate attributeName="cx" values="-60;648;748" dur="3.2s" begin="0.72s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="42;64;54" dur="3.2s" begin="0.72s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.2s" begin="0.72s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#E879F9" points="0,0 6,0 3,10" transform="translate(-80 63)">
+  <polygon fill="#FB5607" points="0,0 6,0 3,10" transform="translate(-80 63)">
     <animateTransform attributeName="transform" type="translate" values="-120 63; 685 67; 805 63" dur="3.45s" begin="0.8999999999999999s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.45s" begin="0.8999999999999999s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="72" width="10" height="16" fill="#06B6D4" rx="2">
+  <rect x="-80" y="72" width="10" height="16" fill="#FF006E" rx="2">
     <animate attributeName="x" values="-120;722;802" dur="3.7s" begin="1.08s" repeatCount="indefinite"/>
     <animate attributeName="y" values="64;78;72" dur="3.7s" begin="1.08s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.7s" begin="1.08s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="81" r="6" fill="#7C3AED">
+  <circle cy="81" r="6" fill="#E0AAFF">
     <animate attributeName="cx" values="-60;759;859" dur="2.2s" begin="1.26s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="69;91;81" dur="2.2s" begin="1.26s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.2s" begin="1.26s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#EC4899" points="0,0 6,0 3,10" transform="translate(-80 90)">
+  <polygon fill="#FF006E" points="0,0 6,0 3,10" transform="translate(-80 90)">
     <animateTransform attributeName="transform" type="translate" values="-120 90; 796 94; 916 90" dur="2.45s" begin="1.44s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.45s" begin="1.44s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="99" width="10" height="16" fill="#F59E0B" rx="2">
+  <rect x="-80" y="99" width="10" height="16" fill="#8338EC" rx="2">
     <animate attributeName="x" values="-120;833;913" dur="2.7s" begin="1.6199999999999999s" repeatCount="indefinite"/>
     <animate attributeName="y" values="91;105;99" dur="2.7s" begin="1.6199999999999999s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.7s" begin="1.6199999999999999s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="108" r="6" fill="#22C55E">
+  <circle cy="108" r="6" fill="#FFBE0B">
     <animate attributeName="cx" values="-60;870;970" dur="2.95s" begin="0.0s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="96;118;108" dur="2.95s" begin="0.0s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.95s" begin="0.0s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#E879F9" points="0,0 6,0 3,10" transform="translate(-80 117)">
+  <polygon fill="#00F5FF" points="0,0 6,0 3,10" transform="translate(-80 117)">
     <animateTransform attributeName="transform" type="translate" values="-120 117; 907 121; 1027 117" dur="3.2s" begin="0.18s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.2s" begin="0.18s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="126" width="10" height="16" fill="#06B6D4" rx="2">
+  <rect x="-80" y="126" width="10" height="16" fill="#39FF14" rx="2">
     <animate attributeName="x" values="-120;944;1024" dur="3.45s" begin="0.36s" repeatCount="indefinite"/>
     <animate attributeName="y" values="118;132;126" dur="3.45s" begin="0.36s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.45s" begin="0.36s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="135" r="6" fill="#7C3AED">
+  <circle cy="135" r="6" fill="#FB5607">
     <animate attributeName="cx" values="-60;981;1081" dur="3.7s" begin="0.54s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="123;145;135" dur="3.7s" begin="0.54s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.7s" begin="0.54s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#EC4899" points="0,0 6,0 3,10" transform="translate(-80 144)">
+  <polygon fill="#FF006E" points="0,0 6,0 3,10" transform="translate(-80 144)">
     <animateTransform attributeName="transform" type="translate" values="-120 144; 1018 148; 1138 144" dur="2.2s" begin="0.72s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.2s" begin="0.72s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="153" width="10" height="16" fill="#F59E0B" rx="2">
+  <rect x="-80" y="153" width="10" height="16" fill="#E0AAFF" rx="2">
     <animate attributeName="x" values="-120;1055;1135" dur="2.45s" begin="0.8999999999999999s" repeatCount="indefinite"/>
     <animate attributeName="y" values="145;159;153" dur="2.45s" begin="0.8999999999999999s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.45s" begin="0.8999999999999999s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="162" r="6" fill="#22C55E">
+  <circle cy="162" r="6" fill="#FF006E">
     <animate attributeName="cx" values="-60;1092;1192" dur="2.7s" begin="1.08s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="150;172;162" dur="2.7s" begin="1.08s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.7s" begin="1.08s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#E879F9" points="0,0 6,0 3,10" transform="translate(-80 171)">
+  <polygon fill="#8338EC" points="0,0 6,0 3,10" transform="translate(-80 171)">
     <animateTransform attributeName="transform" type="translate" values="-120 171; 1129 175; 1249 171" dur="2.95s" begin="1.26s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.95s" begin="1.26s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="180" width="10" height="16" fill="#06B6D4" rx="2">
+  <rect x="-80" y="180" width="10" height="16" fill="#FFBE0B" rx="2">
     <animate attributeName="x" values="-120;1166;1246" dur="3.2s" begin="1.44s" repeatCount="indefinite"/>
     <animate attributeName="y" values="172;186;180" dur="3.2s" begin="1.44s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.2s" begin="1.44s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="189" r="6" fill="#7C3AED">
+  <circle cy="189" r="6" fill="#00F5FF">
     <animate attributeName="cx" values="-60;1203;1303" dur="3.45s" begin="1.6199999999999999s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="177;199;189" dur="3.45s" begin="1.6199999999999999s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.45s" begin="1.6199999999999999s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#EC4899" points="0,0 6,0 3,10" transform="translate(-80 198)">
+  <polygon fill="#39FF14" points="0,0 6,0 3,10" transform="translate(-80 198)">
     <animateTransform attributeName="transform" type="translate" values="-120 198; 1240 202; 1360 198" dur="3.7s" begin="0.0s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.7s" begin="0.0s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="207" width="10" height="16" fill="#F59E0B" rx="2">
+  <rect x="-80" y="207" width="10" height="16" fill="#FB5607" rx="2">
     <animate attributeName="x" values="-120;1277;1357" dur="2.2s" begin="0.18s" repeatCount="indefinite"/>
     <animate attributeName="y" values="199;213;207" dur="2.2s" begin="0.18s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.2s" begin="0.18s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="216" r="6" fill="#22C55E">
+  <circle cy="216" r="6" fill="#FF006E">
     <animate attributeName="cx" values="-60;1314;1414" dur="2.45s" begin="0.36s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="204;226;216" dur="2.45s" begin="0.36s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.45s" begin="0.36s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#E879F9" points="0,0 6,0 3,10" transform="translate(-80 225)">
+  <polygon fill="#E0AAFF" points="0,0 6,0 3,10" transform="translate(-80 225)">
     <animateTransform attributeName="transform" type="translate" values="-120 225; 1351 229; 1471 225" dur="2.7s" begin="0.54s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.7s" begin="0.54s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="234" width="10" height="16" fill="#06B6D4" rx="2">
+  <rect x="-80" y="234" width="10" height="16" fill="#FF006E" rx="2">
     <animate attributeName="x" values="-120;1388;1468" dur="2.95s" begin="0.72s" repeatCount="indefinite"/>
     <animate attributeName="y" values="226;240;234" dur="2.95s" begin="0.72s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.95s" begin="0.72s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="243" r="6" fill="#7C3AED">
+  <circle cy="243" r="6" fill="#8338EC">
     <animate attributeName="cx" values="-60;525;625" dur="3.2s" begin="0.8999999999999999s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="231;253;243" dur="3.2s" begin="0.8999999999999999s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.2s" begin="0.8999999999999999s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#EC4899" points="0,0 6,0 3,10" transform="translate(-80 252)">
+  <polygon fill="#FFBE0B" points="0,0 6,0 3,10" transform="translate(-80 252)">
     <animateTransform attributeName="transform" type="translate" values="-120 252; 562 256; 682 252" dur="3.45s" begin="1.08s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.45s" begin="1.08s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="21" width="10" height="16" fill="#F59E0B" rx="2">
+  <rect x="-80" y="21" width="10" height="16" fill="#00F5FF" rx="2">
     <animate attributeName="x" values="-120;599;679" dur="3.7s" begin="1.26s" repeatCount="indefinite"/>
     <animate attributeName="y" values="13;27;21" dur="3.7s" begin="1.26s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.7s" begin="1.26s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="30" r="6" fill="#22C55E">
+  <circle cy="30" r="6" fill="#39FF14">
     <animate attributeName="cx" values="-60;636;736" dur="2.2s" begin="1.44s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="18;40;30" dur="2.2s" begin="1.44s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.2s" begin="1.44s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#E879F9" points="0,0 6,0 3,10" transform="translate(-80 39)">
+  <polygon fill="#FB5607" points="0,0 6,0 3,10" transform="translate(-80 39)">
     <animateTransform attributeName="transform" type="translate" values="-120 39; 673 43; 793 39" dur="2.45s" begin="1.6199999999999999s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.45s" begin="1.6199999999999999s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="-80" y="48" width="10" height="16" fill="#06B6D4" rx="2">
+  <rect x="-80" y="48" width="10" height="16" fill="#FF006E" rx="2">
     <animate attributeName="x" values="-120;710;790" dur="2.7s" begin="0.0s" repeatCount="indefinite"/>
     <animate attributeName="y" values="40;54;48" dur="2.7s" begin="0.0s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.7s" begin="0.0s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="57" r="6" fill="#7C3AED">
+  <circle cy="57" r="6" fill="#E0AAFF">
     <animate attributeName="cx" values="-60;747;847" dur="2.95s" begin="0.18s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="45;67;57" dur="2.95s" begin="0.18s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.95s" begin="0.18s" repeatCount="indefinite"/>
   </circle>
-  <circle cy="30" r="5" fill="#EC4899">
+  <circle cy="30" r="5" fill="#FFBE0B">
     <animate attributeName="cx" values="1660;1100;1000" dur="2.0s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="42;22;30" dur="2.0s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.0s" begin="0.1s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#F59E0B" points="0,0 8,0 4,12" transform="translate(1680 41)">
+  <polygon fill="#00F5FF" points="0,0 8,0 4,12" transform="translate(1680 41)">
     <animateTransform attributeName="transform" type="translate" values="1720 41; 1069 37; 949 41" dur="2.22s" begin="0.26s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.22s" begin="0.26s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="52" width="9" height="15" fill="#22C55E" rx="2">
+  <rect x="1680" y="52" width="9" height="15" fill="#39FF14" rx="2">
     <animate attributeName="x" values="1720;1038;958" dur="2.44s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="y" values="62;46;52" dur="2.44s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.44s" begin="0.42000000000000004s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="63" r="5" fill="#E879F9">
+  <circle cy="63" r="5" fill="#FB5607">
     <animate attributeName="cx" values="1660;1007;907" dur="2.66s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="75;55;63" dur="2.66s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.66s" begin="0.58s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#06B6D4" points="0,0 8,0 4,12" transform="translate(1680 74)">
+  <polygon fill="#FF006E" points="0,0 8,0 4,12" transform="translate(1680 74)">
     <animateTransform attributeName="transform" type="translate" values="1720 74; 976 70; 856 74" dur="2.88s" begin="0.74s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.88s" begin="0.74s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="85" width="9" height="15" fill="#7C3AED" rx="2">
+  <rect x="1680" y="85" width="9" height="15" fill="#E0AAFF" rx="2">
     <animate attributeName="x" values="1720;945;865" dur="3.1s" begin="0.9s" repeatCount="indefinite"/>
     <animate attributeName="y" values="95;79;85" dur="3.1s" begin="0.9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.1s" begin="0.9s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="96" r="5" fill="#EC4899">
+  <circle cy="96" r="5" fill="#FF006E">
     <animate attributeName="cx" values="1660;914;814" dur="3.3200000000000003s" begin="1.06s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="108;88;96" dur="3.3200000000000003s" begin="1.06s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.3200000000000003s" begin="1.06s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#F59E0B" points="0,0 8,0 4,12" transform="translate(1680 107)">
+  <polygon fill="#8338EC" points="0,0 8,0 4,12" transform="translate(1680 107)">
     <animateTransform attributeName="transform" type="translate" values="1720 107; 883 103; 763 107" dur="3.54s" begin="1.2200000000000002s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.54s" begin="1.2200000000000002s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="118" width="9" height="15" fill="#22C55E" rx="2">
+  <rect x="1680" y="118" width="9" height="15" fill="#FFBE0B" rx="2">
     <animate attributeName="x" values="1720;852;772" dur="2.0s" begin="1.3800000000000001s" repeatCount="indefinite"/>
     <animate attributeName="y" values="128;112;118" dur="2.0s" begin="1.3800000000000001s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.0s" begin="1.3800000000000001s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="129" r="5" fill="#E879F9">
+  <circle cy="129" r="5" fill="#00F5FF">
     <animate attributeName="cx" values="1660;821;721" dur="2.22s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="141;121;129" dur="2.22s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.22s" begin="0.1s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#06B6D4" points="0,0 8,0 4,12" transform="translate(1680 140)">
+  <polygon fill="#39FF14" points="0,0 8,0 4,12" transform="translate(1680 140)">
     <animateTransform attributeName="transform" type="translate" values="1720 140; 790 136; 670 140" dur="2.44s" begin="0.26s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.44s" begin="0.26s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="151" width="9" height="15" fill="#7C3AED" rx="2">
+  <rect x="1680" y="151" width="9" height="15" fill="#FB5607" rx="2">
     <animate attributeName="x" values="1720;759;679" dur="2.66s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="y" values="161;145;151" dur="2.66s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.66s" begin="0.42000000000000004s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="162" r="5" fill="#EC4899">
+  <circle cy="162" r="5" fill="#FF006E">
     <animate attributeName="cx" values="1660;728;628" dur="2.88s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="174;154;162" dur="2.88s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.88s" begin="0.58s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#F59E0B" points="0,0 8,0 4,12" transform="translate(1680 173)">
+  <polygon fill="#E0AAFF" points="0,0 8,0 4,12" transform="translate(1680 173)">
     <animateTransform attributeName="transform" type="translate" values="1720 173; 697 169; 577 173" dur="3.1s" begin="0.74s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.1s" begin="0.74s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="184" width="9" height="15" fill="#22C55E" rx="2">
+  <rect x="1680" y="184" width="9" height="15" fill="#FF006E" rx="2">
     <animate attributeName="x" values="1720;666;586" dur="3.3200000000000003s" begin="0.9s" repeatCount="indefinite"/>
     <animate attributeName="y" values="194;178;184" dur="3.3200000000000003s" begin="0.9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.3200000000000003s" begin="0.9s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="195" r="5" fill="#E879F9">
+  <circle cy="195" r="5" fill="#8338EC">
     <animate attributeName="cx" values="1660;635;535" dur="3.54s" begin="1.06s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="207;187;195" dur="3.54s" begin="1.06s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.54s" begin="1.06s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#06B6D4" points="0,0 8,0 4,12" transform="translate(1680 206)">
+  <polygon fill="#FFBE0B" points="0,0 8,0 4,12" transform="translate(1680 206)">
     <animateTransform attributeName="transform" type="translate" values="1720 206; 604 202; 484 206" dur="2.0s" begin="1.2200000000000002s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.0s" begin="1.2200000000000002s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="217" width="9" height="15" fill="#7C3AED" rx="2">
+  <rect x="1680" y="217" width="9" height="15" fill="#00F5FF" rx="2">
     <animate attributeName="x" values="1720;573;493" dur="2.22s" begin="1.3800000000000001s" repeatCount="indefinite"/>
     <animate attributeName="y" values="227;211;217" dur="2.22s" begin="1.3800000000000001s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.22s" begin="1.3800000000000001s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="228" r="5" fill="#EC4899">
+  <circle cy="228" r="5" fill="#39FF14">
     <animate attributeName="cx" values="1660;542;442" dur="2.44s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="240;220;228" dur="2.44s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.44s" begin="0.1s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#F59E0B" points="0,0 8,0 4,12" transform="translate(1680 239)">
+  <polygon fill="#FB5607" points="0,0 8,0 4,12" transform="translate(1680 239)">
     <animateTransform attributeName="transform" type="translate" values="1720 239; 511 235; 391 239" dur="2.66s" begin="0.26s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.66s" begin="0.26s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="250" width="9" height="15" fill="#22C55E" rx="2">
+  <rect x="1680" y="250" width="9" height="15" fill="#FF006E" rx="2">
     <animate attributeName="x" values="1720;480;400" dur="2.88s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="y" values="260;244;250" dur="2.88s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.88s" begin="0.42000000000000004s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="31" r="5" fill="#E879F9">
+  <circle cy="31" r="5" fill="#E0AAFF">
     <animate attributeName="cx" values="1660;449;349" dur="3.1s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="43;23;31" dur="3.1s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.1s" begin="0.58s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#06B6D4" points="0,0 8,0 4,12" transform="translate(1680 42)">
+  <polygon fill="#FF006E" points="0,0 8,0 4,12" transform="translate(1680 42)">
     <animateTransform attributeName="transform" type="translate" values="1720 42; 418 38; 298 42" dur="3.3200000000000003s" begin="0.74s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.3200000000000003s" begin="0.74s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="53" width="9" height="15" fill="#7C3AED" rx="2">
+  <rect x="1680" y="53" width="9" height="15" fill="#8338EC" rx="2">
     <animate attributeName="x" values="1720;387;307" dur="3.54s" begin="0.9s" repeatCount="indefinite"/>
     <animate attributeName="y" values="63;47;53" dur="3.54s" begin="0.9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.54s" begin="0.9s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="64" r="5" fill="#EC4899">
+  <circle cy="64" r="5" fill="#FFBE0B">
     <animate attributeName="cx" values="1660;356;256" dur="2.0s" begin="1.06s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="76;56;64" dur="2.0s" begin="1.06s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.0s" begin="1.06s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#F59E0B" points="0,0 8,0 4,12" transform="translate(1680 75)">
+  <polygon fill="#00F5FF" points="0,0 8,0 4,12" transform="translate(1680 75)">
     <animateTransform attributeName="transform" type="translate" values="1720 75; 325 71; 205 75" dur="2.22s" begin="1.2200000000000002s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.22s" begin="1.2200000000000002s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="86" width="9" height="15" fill="#22C55E" rx="2">
+  <rect x="1680" y="86" width="9" height="15" fill="#39FF14" rx="2">
     <animate attributeName="x" values="1720;294;214" dur="2.44s" begin="1.3800000000000001s" repeatCount="indefinite"/>
     <animate attributeName="y" values="96;80;86" dur="2.44s" begin="1.3800000000000001s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="2.44s" begin="1.3800000000000001s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="97" r="5" fill="#E879F9">
+  <circle cy="97" r="5" fill="#FB5607">
     <animate attributeName="cx" values="1660;263;163" dur="2.66s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="109;89;97" dur="2.66s" begin="0.1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="2.66s" begin="0.1s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#06B6D4" points="0,0 8,0 4,12" transform="translate(1680 108)">
+  <polygon fill="#FF006E" points="0,0 8,0 4,12" transform="translate(1680 108)">
     <animateTransform attributeName="transform" type="translate" values="1720 108; 232 104; 112 108" dur="2.88s" begin="0.26s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="2.88s" begin="0.26s" repeatCount="indefinite"/>
   </polygon>
-  <rect x="1680" y="119" width="9" height="15" fill="#7C3AED" rx="2">
+  <rect x="1680" y="119" width="9" height="15" fill="#E0AAFF" rx="2">
     <animate attributeName="x" values="1720;201;121" dur="3.1s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="y" values="129;113;119" dur="3.1s" begin="0.42000000000000004s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.7;0" dur="3.1s" begin="0.42000000000000004s" repeatCount="indefinite"/>
   </rect>
-  <circle cy="130" r="5" fill="#EC4899">
+  <circle cy="130" r="5" fill="#FF006E">
     <animate attributeName="cx" values="1660;1070;970" dur="3.3200000000000003s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="142;122;130" dur="3.3200000000000003s" begin="0.58s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.6;0" dur="3.3200000000000003s" begin="0.58s" repeatCount="indefinite"/>
   </circle>
-  <polygon fill="#F59E0B" points="0,0 8,0 4,12" transform="translate(1680 141)">
+  <polygon fill="#8338EC" points="0,0 8,0 4,12" transform="translate(1680 141)">
     <animateTransform attributeName="transform" type="translate" values="1720 141; 1039 137; 919 141" dur="3.54s" begin="0.74s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0.5;0" dur="3.54s" begin="0.74s" repeatCount="indefinite"/>
   </polygon>
   <g transform="translate(800 130)">
-    <text text-anchor="middle" y="0" fill="url(#txt)" font-family="ui-monospace, monospace" font-size="34" font-weight="700">Thanks for visiting!</text>
-    <text text-anchor="middle" y="34" fill="#9CA3AF" font-family="ui-monospace, monospace" font-size="14">celebration sweeping in from both sides</text>
+    <text text-anchor="middle" y="0" fill="url(#txt)" font-family="ui-monospace, monospace" font-size="34" font-weight="700">YO! Thanks for pulling up!</text>
+    <text text-anchor="middle" y="34" fill="#FFBE0B" font-family="ui-monospace, monospace" font-size="14">sideways funk incoming from both edges</text>
     <animateTransform attributeName="transform" type="scale" additive="sum" values="1;1.05;1;0.98;1" dur="2s" repeatCount="indefinite"/>
   </g>
-  <rect x="0" y="0" width="140" height="280" fill="#06B6D4" opacity="0.08">
+  <rect x="0" y="0" width="140" height="280" fill="#FF006E" opacity="0.10">
     <animate attributeName="x" values="-160;0;-160" dur="2.8s" repeatCount="indefinite"/>
   </rect>
-  <rect x="1460" y="0" width="140" height="280" fill="#EC4899" opacity="0.08">
+  <rect x="1460" y="0" width="140" height="280" fill="#FFBE0B" opacity="0.10">
     <animate attributeName="x" values="1600;1460;1600" dur="2.8s" repeatCount="indefinite"/>
   </rect>
 </svg>

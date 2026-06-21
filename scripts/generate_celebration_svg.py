@@ -6,7 +6,7 @@ from __future__ import annotations
 from pathlib import Path
 
 W, H = 1600, 280
-COLORS = ["#06B6D4", "#7C3AED", "#EC4899", "#F59E0B", "#22C55E", "#E879F9"]
+COLORS = ["#FF006E", "#8338EC", "#FFBE0B", "#00F5FF", "#39FF14", "#FB5607", "#FF006E", "#E0AAFF"]
 OUTPUT = Path(__file__).resolve().parents[1] / "assets" / "welcome-confetti.svg"
 PARADE_OUTPUT = Path(__file__).resolve().parents[1] / "assets" / "celebration-parade.svg"
 
@@ -86,14 +86,14 @@ def main() -> None:
         'role="img" aria-label="Full screen sideways celebration">',
         "  <defs>",
         '    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">',
-        '      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.10"/>',
-        '      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.14"/>',
-        '      <stop offset="100%" stop-color="#EC4899" stop-opacity="0.10"/>',
+        '      <stop offset="0%" stop-color="#FF006E" stop-opacity="0.12"/>',
+        '      <stop offset="50%" stop-color="#8338EC" stop-opacity="0.16"/>',
+        '      <stop offset="100%" stop-color="#FFBE0B" stop-opacity="0.12"/>',
         "    </linearGradient>",
         '    <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">',
-        '      <stop offset="0%" stop-color="#06B6D4"/>',
-        '      <stop offset="50%" stop-color="#E879F9"/>',
-        '      <stop offset="100%" stop-color="#7C3AED"/>',
+        '      <stop offset="0%" stop-color="#FF006E"/>',
+        '      <stop offset="50%" stop-color="#FFBE0B"/>',
+        '      <stop offset="100%" stop-color="#00F5FF"/>',
         "    </linearGradient>",
         "  </defs>",
         f'  <rect x="0" y="0" width="{W}" height="{H}" fill="url(#bg)"/>',
@@ -107,14 +107,14 @@ def main() -> None:
     lines.extend(
         [
             '  <g transform="translate(800 130)">',
-            '    <text text-anchor="middle" y="0" fill="url(#txt)" font-family="ui-monospace, monospace" font-size="34" font-weight="700">Thanks for visiting!</text>',
-            '    <text text-anchor="middle" y="34" fill="#9CA3AF" font-family="ui-monospace, monospace" font-size="14">celebration sweeping in from both sides</text>',
+            '    <text text-anchor="middle" y="0" fill="url(#txt)" font-family="ui-monospace, monospace" font-size="34" font-weight="700">YO! Thanks for pulling up!</text>',
+            '    <text text-anchor="middle" y="34" fill="#FFBE0B" font-family="ui-monospace, monospace" font-size="14">sideways funk incoming from both edges</text>',
             '    <animateTransform attributeName="transform" type="scale" additive="sum" values="1;1.05;1;0.98;1" dur="2s" repeatCount="indefinite"/>',
             "  </g>",
-            '  <rect x="0" y="0" width="140" height="280" fill="#06B6D4" opacity="0.08">',
+            '  <rect x="0" y="0" width="140" height="280" fill="#FF006E" opacity="0.10">',
             '    <animate attributeName="x" values="-160;0;-160" dur="2.8s" repeatCount="indefinite"/>',
             "  </rect>",
-            '  <rect x="1460" y="0" width="140" height="280" fill="#EC4899" opacity="0.08">',
+            '  <rect x="1460" y="0" width="140" height="280" fill="#FFBE0B" opacity="0.10">',
             '    <animate attributeName="x" values="1600;1460;1600" dur="2.8s" repeatCount="indefinite"/>',
             "  </rect>",
             "</svg>",
@@ -126,7 +126,7 @@ def main() -> None:
 
 
 def generate_parade() -> None:
-    icons = ["*", "+", "x", "o", ">", "<", "~", "^"]
+    icons = ["%", "#", "@", "&", "!", "?", "*", "+"]
     lines = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="90" '
         f'viewBox="0 0 {W} 90" preserveAspectRatio="xMidYMid slice" '

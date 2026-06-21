@@ -1,15 +1,23 @@
-<!-- Profile README · https://github.com/BlackBeanEagles · Mission Control layout -->
+<!-- Profile README · https://github.com/BlackBeanEagles · FUNK EDITION 🪩 -->
 
 <img src="./assets/welcome-confetti.svg" width="100%" alt="Full-width sideways confetti celebration"/>
 
 <img src="./assets/celebration-parade.svg" width="100%" alt="Sideways celebration parade across screen"/>
 
 <p align="center">
+  <img src="./assets/disco-strip.svg" width="100%" alt="Neon disco strip"/>
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:06B6D4&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:C4B5FD,100:67E8F9&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=0F172A&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:06B6D4&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50" alt="Hridya Jain profile banner"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=stay+funky+%C2%B7+stay+shipping&descSize=18&descAlignY=58&descAlign=50"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:FF006E,100:FFBE0B&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=0D0221&animation=twinkling&fontAlignY=38&desc=stay+funky+%C2%B7+stay+shipping&descSize=18&descAlignY=58&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:8338EC&height=180&section=header&text=Hridya%20Jain&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=stay+funky+%C2%B7+stay+shipping&descSize=18&descAlignY=58&descAlign=50" alt="Hridya Jain funky profile banner"/>
   </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/disco-strip.svg" width="100%" alt="Neon disco strip"/>
 </p>
 
 <p align="center">
@@ -22,24 +30,24 @@
 
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+AI-powered+developer+tools;Securing+apps+with+real+defaults;I+build+tools+that+think+with+you"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI-powered+developer+tools;Securing+apps+with+real+defaults;I+build+tools+that+think+with+you"/>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+AI-powered+developer+tools;Securing+apps+with+real+defaults;I+build+tools+that+think+with+you" alt="Animated typing intro"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=32&duration=2600&pause=700&color=FF006E&center=true&vCenter=true&width=680&lines=Caffeine+%2B+chaos+%3D+working+code;AI+tools+with+main+character+energy;Security+so+tight+it+actually+slaps"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=32&duration=2600&pause=700&color=8338EC&center=true&vCenter=true&width=680&lines=Caffeine+%2B+chaos+%3D+working+code;AI+tools+with+main+character+energy;Security+so+tight+it+actually+slaps"/>
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=32&duration=2600&pause=700&color=FF006E&center=true&vCenter=true&width=680&lines=Caffeine+%2B+chaos+%3D+working+code;AI+tools+with+main+character+energy;Security+so+tight+it+actually+slaps" alt="Funky typing intro"/>
   </picture>
 </h1>
 
 <p align="center">
-  <img src="./assets/status-live.svg" alt="Live status: online and building"/>
+  <img src="./assets/funky-status.svg" alt="Funky live status"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hridyajain"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/BlackBeanEagles?tab=repositories"><img src="https://img.shields.io/badge/Repos-explore-181717?style=flat-square&logo=github" alt="Repos"/></a>
-  <img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=visitors&color=7C3AED&style=flat-square" alt="Visitors"/>
+  <a href="https://linkedin.com/in/hridyajain"><img src="https://img.shields.io/badge/LinkedIn-slide+into+DMs-FF006E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/BlackBeanEagles?tab=repositories"><img src="https://img.shields.io/badge/Repos-peep+the+bangers-8338EC?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+  <img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=vibe+checks&color=FFBE0B&style=for-the-badge" alt="Visitors"/>
 </p>
 
 <details>
-<summary><b>🎊 Celebration mode</b> · click for extra sideways burst</summary>
+<summary><b>🪩 CELEBRATION MODE</b> · click if you can handle the funk</summary>
 <br/>
 
 <img src="./assets/welcome-confetti.svg" width="100%" alt="Extra full-width sideways confetti"/>
@@ -47,27 +55,29 @@
 <img src="./assets/celebration-boomerang.svg" width="100%" alt="Boomerang celebration loop"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="48%" alt="Confetti celebration gif"/>
+  <img src="https://media.giphy.com/media/26BRuo6sKonkafW92/giphy.gif" width="48%" alt="Disco funk gif"/>
   <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="48%" alt="Party celebration gif"/>
 </p>
 
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"AI amplifies intent. Clear intent amplifies impact."*
+> *"Ship code like it's a summer drop — loud, clean, and impossible to ignore."*
 <!-- DEV_QUOTE:END -->
+
+<p align="center"><img src="./assets/disco-strip.svg" width="100%" alt="Disco divider"/></p>
 
 ---
 
-## `> hridya.init()`
+## `🪩 > hridya.drop_the_beat()`
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-**Developer at the edge of AI, security, and DX.**
+**Full-stack dev with AI brain, security spine, and questionable sleep schedule.**
 
-I don't just write code — I build **interactive systems** that help people commit smarter, interview better, and ship safer.
+I build tools that are actually useful — commit therapists, interview coaches, secure apps — but make them feel **fun to use**, not corporate-gray.
 
 <br/>
 
@@ -82,28 +92,28 @@ $ git clone https://github.com/BlackBeanEagles/zapsafe-mobile.git && cd zapsafe-
 <br/>
 
 <details>
-<summary><b>🖥️ Run <code>hridya --help</code></b> · click me</summary>
+<summary><b>🕺 Run <code>hridya --help</code></b> · yes, it slaps</summary>
 <br/>
 
 ```bash
 $ hridya --help
 
   COMMANDS
-    status      Show what I'm building right now
-    projects    Open featured repositories
-    stack       List languages & tools I use daily
-    now         Spotify now playing + WakaTime stats
-    connect     Reach me on LinkedIn
+    status      What's cooking right now
+    projects    Open the banger repos
+    stack       Tools I touch daily
+    now         Spotify + WakaTime (when connected)
+    connect     Slide into LinkedIn DMs
 
   FLAGS
-    --ai        Focus: LLM-powered developer tools
-    --sec       Focus: hardened apps & secure defaults
-    --ship      Focus: fast iteration, clean commits
+    --ai        LLM-powered chaos (the good kind)
+    --sec       Apps locked down tighter than your ex's privacy settings
+    --funk      Maximum vibe output (default: true)
 
 $ hridya status
   ● ONLINE
-  ● Building AI + security products
-  ● Open to collab & interesting problems
+  ● Main character arc: building AI + security tools
+  ● Collabs welcome — bring weird ideas
 ```
 
 </details>
@@ -111,7 +121,7 @@ $ hridya status
 </td>
 <td width="42%" valign="top">
 
-### Live feed
+### Vibe feed
 
 <!-- LIVE_FEED:START -->
 | Signal | Value |
@@ -124,17 +134,19 @@ $ hridya status
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlackBeanEagles&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=7C3AED&text_color=E6EDF3&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BlackBeanEagles&show_icons=true&theme=radical&hide_border=true&title_color=FF006E&icon_color=FFBE0B&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats"/>
 
 </td>
 </tr>
 </table>
 
+<p align="center"><img src="./assets/disco-strip.svg" width="100%" alt="Disco divider"/></p>
+
 ---
 
-## `> hridya.now --live`
+## `🎧 > hridya.on_the_decks`
 
-<p align="center"><i>Spotify + WakaTime refresh every 15 minutes · theme follows your OS</i></p>
+<p align="center"><i>Spotify + WakaTime refresh every 15 min · vibes are automated</i></p>
 
 <table>
 <tr>
@@ -166,9 +178,9 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 
 <!-- WAKATIME_STATS:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&layout=compact"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime coding stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF006E&text_color=FFFFFF&layout=compact"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=8338EC&text_color=0D0221&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=radical&hide_border=true&layout=compact" alt="WakaTime coding stats"/>
 </picture>
 
 *Add `WAKATIME_API_KEY` secret for live weekly coding breakdown.*
@@ -196,9 +208,9 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 
 ---
 
-## `> hridya.projects --featured`
+## `🚀 > hridya.bangers --featured`
 
-<p align="center"><i>Click a card to open the repo ↓</i></p>
+<p align="center"><i>Tap a card — these repos go hard ↓</i></p>
 
 <table>
 <tr>
@@ -206,13 +218,13 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 <a href="https://github.com/BlackBeanEagles/Commit-Message-Therapist">
 <img src="https://opengraph.githubassets.com/1/BlackBeanEagles/Commit-Message-Therapist" width="100%" alt="Commit-Message-Therapist"/>
 </a>
-<br/><b>Commit-Message-Therapist</b> · TypeScript · AI commit messages from your diffs
+<br/><b>Commit-Message-Therapist</b> · TypeScript · your commits need therapy (same)
 </td>
 <td width="50%">
 <a href="https://github.com/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain">
 <img src="https://opengraph.githubassets.com/1/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain" width="100%" alt="ReflectAI"/>
 </a>
-<br/><b>ReflectAI</b> · Python · AI interview prep & reflection coach
+<br/><b>ReflectAI</b> · Python · AI interview prep that actually cooks
 </td>
 </tr>
 <tr>
@@ -289,44 +301,46 @@ Hide sensitive fields in documents before sending them anywhere.
 
 ---
 
-## `> hridya.activity --live`
+## `📈 > hridya.flex --stats`
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D1117&color=06B6D4&line=7C3AED&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=FFFFFF&color=7C3AED&line=06B6D4&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D1117&color=06B6D4&line=7C3AED&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="Contribution activity graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D0221&color=FF006E&line=FFBE0B&point=00F5FF&area=true&hide_border=true&custom_title=Funk%20Pulse"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=FFF0F5&color=8338EC&line=FF006E&point=FFBE0B&area=true&hide_border=true&custom_title=Funk%20Pulse"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D0221&color=FF006E&line=FFBE0B&point=00F5FF&area=true&hide_border=true&custom_title=Funk%20Pulse" alt="Contribution activity graph"/>
 </picture>
 
 </td>
 <td width="45%" valign="top">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4" width="100%" alt="Streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=radical&hide_border=true&background=0D0221&ring=FF006E&fire=FFBE0B&currStreakLabel=00F5FF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=radical&hide_border=true&background=FFF0F5&ring=8338EC&fire=FF006E&currStreakLabel=FFBE0B"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=radical&hide_border=true&background=0D0221&ring=FF006E&fire=FFBE0B&currStreakLabel=00F5FF" width="100%" alt="Streak"/>
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&langs_count=6"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A&langs_count=6"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&langs_count=6" width="100%" alt="Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF006E&text_color=FFFFFF&langs_count=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=8338EC&text_color=0D0221&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF006E&text_color=FFFFFF&langs_count=6" width="100%" alt="Languages"/>
 </picture>
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" alt="Trophies"/>
+
+<p align="center"><img src="./assets/disco-strip.svg" width="100%" alt="Disco divider"/></p>
 
 ---
 
-## `> hridya.repos --recent`
+## `📦 > hridya.repos --fresh`
 
 <!-- RECENT_REPOS:START -->
 - [zapsafe-mobile](https://github.com/BlackBeanEagles/zapsafe-mobile) — Dart · 2026-06-09
@@ -339,7 +353,7 @@ Hide sensitive fields in documents before sending them anywhere.
 
 ---
 
-## `> hridya.graph --snake`
+## `🐍 > hridya.snake --disco`
 
 <p align="center">
   <picture>
@@ -351,7 +365,7 @@ Hide sensitive fields in documents before sending them anywhere.
 
 ---
 
-## `> hridya.stack`
+## `🎸 > hridya.stack --tools`
 
 <p align="center">
   <picture>
@@ -362,12 +376,12 @@ Hide sensitive fields in documents before sending them anywhere.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&center=true&width=500&lines=Thanks+for+visiting+—+let's+build+something+unforgettable.;Ping+me+on+LinkedIn+if+you're+working+on+something+cool."/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=3500&pause=900&color=FF006E&center=true&width=560&lines=Stay+funky+%C2%B7+stay+shipping+%C2%B7+catch+you+on+LinkedIn;You+made+it+to+the+bottom+%E2%80%94+absolute+legend.;Built+different+%C2%B7+deployed+daily"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/hridyajain">
-    <img src="https://img.shields.io/badge/Let's_build_together-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_get_this+bread-FF006E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 </p>
 
@@ -376,8 +390,8 @@ Hide sensitive fields in documents before sending them anywhere.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=90&section=footer"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:C4B5FD,100:67E8F9&height=90&section=footer"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=90&section=footer" width="100%" alt="Footer wave"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:FFBE0B&height=100&section=footer"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:8338EC,100:FF006E&height=100&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF006E,100:FFBE0B&height=100&section=footer" width="100%" alt="Footer wave"/>
   </picture>
 </p>

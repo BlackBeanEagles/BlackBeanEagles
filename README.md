@@ -147,9 +147,9 @@ Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFR
 
 <!-- WAKATIME_STATS:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&layout=compact"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime coding stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&layout=compact"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime coding stats"/>
 </picture>
 
 *Add `WAKATIME_API_KEY` secret for live weekly coding breakdown.*

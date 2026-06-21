@@ -69,7 +69,7 @@ I'm a developer who builds at the intersection of **AI**, **security**, and **gr
 ### Recently pushed repos
 
 <!-- RECENT_REPOS:START -->
-- Loading recent repos… (updates daily via GitHub Actions)
+{"message":"Resource not accessible by integration","documentation_url":"https://docs.github.com/rest/repos/repos#list-repositories-for-the-authenticated-user","status":"403"}
 <!-- RECENT_REPOS:END -->
 
 ---

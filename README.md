@@ -1,7 +1,27 @@
 <!-- Profile README · https://github.com/BlackBeanEagles · Mission Control layout -->
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:06B6D4&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:C4B5FD,100:67E8F9&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=0F172A&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:06B6D4&height=170&section=header&text=Hridya%20Jain&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descAlign=50" alt="Hridya Jain profile banner"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/theme-mode-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/theme-mode-light.svg"/>
+    <img src="./assets/theme-mode-light.svg" alt="Theme follows your system dark or light preference"/>
+  </picture>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=600&lines=Hridya+Jain;AI+%2B+Security+%2B+Full-Stack;I+build+tools+that+think+with+you"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+AI-powered+developer+tools;Securing+apps+with+real+defaults;I+build+tools+that+think+with+you"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI-powered+developer+tools;Securing+apps+with+real+defaults;I+build+tools+that+think+with+you"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+AI-powered+developer+tools;Securing+apps+with+real+defaults;I+build+tools+that+think+with+you" alt="Animated typing intro"/>
+  </picture>
 </h1>
 
 <p align="center">
@@ -53,6 +73,7 @@ $ hridya --help
     status      Show what I'm building right now
     projects    Open featured repositories
     stack       List languages & tools I use daily
+    now         Spotify now playing + WakaTime stats
     connect     Reach me on LinkedIn
 
   FLAGS
@@ -89,6 +110,70 @@ $ hridya status
 </td>
 </tr>
 </table>
+
+---
+
+## `> hridya.now --live`
+
+<p align="center"><i>Spotify + WakaTime refresh every 15 minutes · theme follows your OS</i></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Spotify
+
+<!-- SPOTIFY_NOW_PLAYING:START -->
+<table>
+<tr>
+<td width="72">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</td>
+<td>
+
+**Now playing** · awaiting connection
+
+Add repo secrets `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` to go live.
+
+</td>
+</tr>
+</table>
+<!-- SPOTIFY_NOW_PLAYING:END -->
+
+</td>
+<td width="50%" valign="top">
+
+### WakaTime
+
+<!-- WAKATIME_STATS:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&layout=compact"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=current&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime coding stats"/>
+</picture>
+
+*Add `WAKATIME_API_KEY` secret for live weekly coding breakdown.*
+<!-- WAKATIME_STATS:END -->
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Setup Spotify & WakaTime secrets</b> · one-time</summary>
+<br/>
+
+**Spotify**
+1. Create an app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications)
+2. Add redirect URI: `http://127.0.0.1:8080/callback`
+3. Run locally: `python scripts/get_spotify_refresh_token.py`
+4. Add GitHub secrets: `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN`
+
+**WakaTime**
+1. Copy your API key from [WakaTime API settings](https://wakatime.com/settings/api-key)
+2. Add GitHub secrets: `WAKATIME_API_KEY` and optional `WAKATIME_USERNAME`
+
+</details>
 
 ---
 
@@ -191,16 +276,28 @@ Hide sensitive fields in documents before sending them anywhere.
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D1117&color=06B6D4&line=7C3AED&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="Contribution activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D1117&color=06B6D4&line=7C3AED&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=FFFFFF&color=7C3AED&line=06B6D4&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D1117&color=06B6D4&line=7C3AED&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="Contribution activity graph"/>
+</picture>
 
 </td>
 <td width="45%" valign="top">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4" width="100%" alt="Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4" width="100%" alt="Streak"/>
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&langs_count=6" width="100%" alt="Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&langs_count=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&langs_count=6" width="100%" alt="Languages"/>
+</picture>
 
 </td>
 </tr>
@@ -238,7 +335,11 @@ Hide sensitive fields in documents before sending them anywhere.
 ## `> hridya.stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=dark" alt="Tech stack icons"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=dark" alt="Tech stack icons"/>
+  </picture>
 </p>
 
 <p align="center">
@@ -252,5 +353,9 @@ Hide sensitive fields in documents before sending them anywhere.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=90&section=footer" width="100%" alt="Footer wave"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=90&section=footer"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:C4B5FD,100:67E8F9&height=90&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=90&section=footer" width="100%" alt="Footer wave"/>
+  </picture>
 </p>

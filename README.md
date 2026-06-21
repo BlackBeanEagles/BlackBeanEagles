@@ -69,12 +69,12 @@ I'm a developer who builds at the intersection of **AI**, **security**, and **gr
 ### Recently pushed repos
 
 <!-- RECENT_REPOS:START -->
-- [zapsafe-mobile](https://github.com/BlackBeanEagles/zapsafe-mobile) — TypeScript · updated 2026-06-09
-- [Generative](https://github.com/BlackBeanEagles/Generative) — Python · updated 2026-06-09
-- [NeutronNoodle](https://github.com/BlackBeanEagles/NeutronNoodle) — TypeScript · updated 2026-06-09
+- [zapsafe-mobile](https://github.com/BlackBeanEagles/zapsafe-mobile) — Dart · updated 2026-06-09
+- [Generative](https://github.com/BlackBeanEagles/Generative) — JavaScript · updated 2026-06-04
+- [NeutronNoodle](https://github.com/BlackBeanEagles/NeutronNoodle) — TypeScript · updated 2026-05-29
 - [Commit-Message-Therapist](https://github.com/BlackBeanEagles/Commit-Message-Therapist) — TypeScript · updated 2026-05-29
+- [TechNest-Secured](https://github.com/BlackBeanEagles/TechNest-Secured) — JavaScript · updated 2026-05-14
 - [am.sc.u4cse23040](https://github.com/BlackBeanEagles/am.sc.u4cse23040) — Python · updated 2026-05-06
-- [Threshold-Valve-Service](https://github.com/BlackBeanEagles/Threshold-Valve-Service) — Python · updated 2026-03-15
 <!-- RECENT_REPOS:END -->
 
 ---

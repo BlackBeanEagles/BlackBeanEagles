@@ -15,7 +15,7 @@
 </p>
 
 <!-- DEV_QUOTE:START -->
-> *"Ship small. Ship often. Ship securely."*
+> *"AI amplifies intent. Clear intent amplifies impact."*
 <!-- DEV_QUOTE:END -->
 
 ---
@@ -76,7 +76,7 @@ $ hridya status
 <!-- LIVE_FEED:START -->
 | Signal | Value |
 | :--- | :--- |
-| **Last public activity** | `push → zapsafe-mobile` |
+| **Last public activity** | `push -> BlackBeanEagles` |
 | **Public repos** | `26` |
 | **Followers** | `7` |
 | **Profile sync** | auto-updated every 6 hours |

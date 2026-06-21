@@ -1,137 +1,256 @@
-<!-- Profile README for https://github.com/BlackBeanEagles -->
-<div align="center">
+<!-- Profile README · https://github.com/BlackBeanEagles · Mission Control layout -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:06B6D4&height=180&section=header&text=Hridya%20Jain&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descSize=18&descAlignY=55&descAlign=50"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=600&lines=Hridya+Jain;AI+%2B+Security+%2B+Full-Stack;I+build+tools+that+think+with+you"/>
+</h1>
 
-<br/>
+<p align="center">
+  <img src="./assets/status-live.svg" alt="Live status: online and building"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Building+AI-powered+developer+tools;Securing+apps+with+TechNest-Secured;Crafting+better+commits+with+Commit-Message-Therapist;Turning+ideas+into+shipped+code"/>
+<p align="center">
+  <a href="https://linkedin.com/in/hridyajain"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/BlackBeanEagles?tab=repositories"><img src="https://img.shields.io/badge/Repos-explore-181717?style=flat-square&logo=github" alt="Repos"/></a>
+  <img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=visitors&color=7C3AED&style=flat-square" alt="Visitors"/>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridyajain)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackBeanEagles)
-[![Email](https://img.shields.io/badge/Contact-DM%20on%20LinkedIn-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/hridyajain)
-
-<img src="https://komarev.com/ghpvc/?username=BlackBeanEagles&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views"/>
-
-</div>
+<!-- DEV_QUOTE:START -->
+> *"Ship small. Ship often. Ship securely."*
+<!-- DEV_QUOTE:END -->
 
 ---
 
-### About me
+## `> hridya.init()`
 
-```typescript
-const hridya = {
-  role: "Full-Stack Developer",
-  focus: ["AI/ML tools", "Application security", "Developer experience"],
-  currentlyBuilding: ["Commit-Message-Therapist", "NeutronNoodle", "zapsafe-mobile"],
-  funFact: "I turn messy git history into clean commit stories",
-};
+<table>
+<tr>
+<td width="58%" valign="top">
+
+**Developer at the edge of AI, security, and DX.**
+
+I don't just write code — I build **interactive systems** that help people commit smarter, interview better, and ship safer.
+
+<br/>
+
+<!-- NOW_BUILDING:START -->
+> **Now building:** [`zapsafe-mobile`](https://github.com/BlackBeanEagles/zapsafe-mobile) · `Dart` · last push `2026-06-09`
+
+```bash
+$ git clone https://github.com/BlackBeanEagles/zapsafe-mobile.git && cd zapsafe-mobile && echo "Let's build."
+```
+<!-- NOW_BUILDING:END -->
+
+<br/>
+
+<details>
+<summary><b>🖥️ Run <code>hridya --help</code></b> · click me</summary>
+<br/>
+
+```bash
+$ hridya --help
+
+  COMMANDS
+    status      Show what I'm building right now
+    projects    Open featured repositories
+    stack       List languages & tools I use daily
+    connect     Reach me on LinkedIn
+
+  FLAGS
+    --ai        Focus: LLM-powered developer tools
+    --sec       Focus: hardened apps & secure defaults
+    --ship      Focus: fast iteration, clean commits
+
+$ hridya status
+  ● ONLINE
+  ● Building AI + security products
+  ● Open to collab & interesting problems
 ```
 
-I'm a developer who builds at the intersection of **AI**, **security**, and **great developer experience**. From interview prep coaches to commit message therapists — I like tools that make engineers faster and safer.
+</details>
 
----
+</td>
+<td width="42%" valign="top">
 
-### Featured projects
+### Live feed
 
-| Project | Stack | Description |
-| :--- | :---: | :--- |
-| [**Commit-Message-Therapist**](https://github.com/BlackBeanEagles/Commit-Message-Therapist) | `TypeScript` | AI assistant that turns messy diffs into clear, conventional commit messages |
-| [**ReflectAI — Inside Your Interview Brain**](https://github.com/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain) | `Python` | AI-powered interview prep — practice, reflect, and improve your answers |
-| [**NeutronNoodle**](https://github.com/BlackBeanEagles/NeutronNoodle) | `TypeScript` | Full-stack TypeScript project — APIs, logic, and clean architecture |
-| [**TechNest-Secured**](https://github.com/BlackBeanEagles/TechNest-Secured) | `JavaScript` | Security-hardened web app with auth, validation, and secure defaults |
-| [**Justredact**](https://github.com/BlackBeanEagles/Justredact) | `JavaScript` | Smart document redaction — hide sensitive data before you share |
-| [**Threshold-Valve-Service**](https://github.com/BlackBeanEagles/Threshold-Valve-Service) | `Python` | Backend service with threshold-based flow control and API logic |
-
----
-
-### GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BlackBeanEagles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub streak"/>
+<!-- LIVE_FEED:START -->
+| Signal | Value |
+| :--- | :--- |
+| **Last public activity** | `push → zapsafe-mobile` |
+| **Public repos** | `26` |
+| **Followers** | `7` |
+| **Profile sync** | auto-updated every 6 hours |
+<!-- LIVE_FEED:END -->
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&langs_count=8" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BlackBeanEagles&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=7C3AED&text_color=E6EDF3&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub trophies"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### Recently pushed repos
+## `> hridya.projects --featured`
+
+<p align="center"><i>Click a card to open the repo ↓</i></p>
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/BlackBeanEagles/Commit-Message-Therapist">
+<img src="https://opengraph.githubassets.com/1/BlackBeanEagles/Commit-Message-Therapist" width="100%" alt="Commit-Message-Therapist"/>
+</a>
+<br/><b>Commit-Message-Therapist</b> · TypeScript · AI commit messages from your diffs
+</td>
+<td width="50%">
+<a href="https://github.com/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain">
+<img src="https://opengraph.githubassets.com/1/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain" width="100%" alt="ReflectAI"/>
+</a>
+<br/><b>ReflectAI</b> · Python · AI interview prep & reflection coach
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/BlackBeanEagles/NeutronNoodle">
+<img src="https://opengraph.githubassets.com/1/BlackBeanEagles/NeutronNoodle" width="100%" alt="NeutronNoodle"/>
+</a>
+<br/><b>NeutronNoodle</b> · TypeScript · Full-stack architecture & APIs
+</td>
+<td width="50%">
+<a href="https://github.com/BlackBeanEagles/TechNest-Secured">
+<img src="https://opengraph.githubassets.com/1/BlackBeanEagles/TechNest-Secured" width="100%" alt="TechNest-Secured"/>
+</a>
+<br/><b>TechNest-Secured</b> · JavaScript · Security-first web application
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/BlackBeanEagles/Justredact">
+<img src="https://opengraph.githubassets.com/1/BlackBeanEagles/Justredact" width="100%" alt="Justredact"/>
+</a>
+<br/><b>Justredact</b> · JavaScript · Smart document redaction
+</td>
+<td width="50%">
+<a href="https://github.com/BlackBeanEagles/Threshold-Valve-Service">
+<img src="https://opengraph.githubassets.com/1/BlackBeanEagles/Threshold-Valve-Service" width="100%" alt="Threshold-Valve-Service"/>
+</a>
+<br/><b>Threshold-Valve-Service</b> · Python · Threshold-based backend service
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Deep dive — expand any project</b></summary>
+<br/>
+
+<details>
+<summary><b>Commit-Message-Therapist</b> — stop writing "fixed stuff" commits</summary>
+
+AI-powered workflow that reads your changes and suggests conventional, meaningful commit messages.
+
+→ [Open repo](https://github.com/BlackBeanEagles/Commit-Message-Therapist)
+
+</details>
+
+<details>
+<summary><b>ReflectAI</b> — practice interviews with an AI brain</summary>
+
+Interview prep tool that helps you reflect on answers, improve structure, and build confidence.
+
+→ [Open repo](https://github.com/BlackBeanEagles/ReflectAI-Inside-Your-Interview-Brain)
+
+</details>
+
+<details>
+<summary><b>TechNest-Secured</b> — security baked in, not bolted on</summary>
+
+Web app focused on auth hardening, validation, and secure-by-default patterns.
+
+→ [Open repo](https://github.com/BlackBeanEagles/TechNest-Secured)
+
+</details>
+
+<details>
+<summary><b>Justredact</b> — redact before you share</summary>
+
+Hide sensitive fields in documents before sending them anywhere.
+
+→ [Open repo](https://github.com/BlackBeanEagles/Justredact)
+
+</details>
+
+</details>
+
+---
+
+## `> hridya.activity --live`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackBeanEagles&bg_color=0D1117&color=06B6D4&line=7C3AED&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="Contribution activity graph"/>
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=BlackBeanEagles&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4" width="100%" alt="Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBeanEagles&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&langs_count=6" width="100%" alt="Languages"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BlackBeanEagles&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" alt="Trophies"/>
+
+---
+
+## `> hridya.repos --recent`
 
 <!-- RECENT_REPOS:START -->
-- [zapsafe-mobile](https://github.com/BlackBeanEagles/zapsafe-mobile) — Dart · updated 2026-06-09
-- [Generative](https://github.com/BlackBeanEagles/Generative) — JavaScript · updated 2026-06-04
-- [NeutronNoodle](https://github.com/BlackBeanEagles/NeutronNoodle) — TypeScript · updated 2026-05-29
-- [Commit-Message-Therapist](https://github.com/BlackBeanEagles/Commit-Message-Therapist) — TypeScript · updated 2026-05-29
-- [TechNest-Secured](https://github.com/BlackBeanEagles/TechNest-Secured) — JavaScript · updated 2026-05-14
-- [am.sc.u4cse23040](https://github.com/BlackBeanEagles/am.sc.u4cse23040) — Python · updated 2026-05-06
+- [zapsafe-mobile](https://github.com/BlackBeanEagles/zapsafe-mobile) — Dart · 2026-06-09
+- [Generative](https://github.com/BlackBeanEagles/Generative) — JavaScript · 2026-06-04
+- [NeutronNoodle](https://github.com/BlackBeanEagles/NeutronNoodle) — TypeScript · 2026-05-29
+- [Commit-Message-Therapist](https://github.com/BlackBeanEagles/Commit-Message-Therapist) — TypeScript · 2026-05-29
+- [TechNest-Secured](https://github.com/BlackBeanEagles/TechNest-Secured) — JavaScript · 2026-05-14
+- [am.sc.u4cse23040](https://github.com/BlackBeanEagles/am.sc.u4cse23040) — Python · 2026-05-06
 <!-- RECENT_REPOS:END -->
 
 ---
 
-### Contribution graph
+## `> hridya.graph --snake`
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="Snake animation eating my GitHub contribution graph" src="./assets/github-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg"/>
+    <img alt="Snake eating my GitHub contributions" src="./assets/github-snake.svg"/>
+  </picture>
+</p>
 
 ---
 
-### Tech stack
+## `> hridya.stack`
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,fastapi,aws,docker,git,github,figma&perline=7&theme=dark" alt="Tech stack icons"/>
+</p>
 
-**Languages**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&center=true&width=500&lines=Thanks+for+visiting+—+let's+build+something+unforgettable.;Ping+me+on+LinkedIn+if+you're+working+on+something+cool."/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <a href="https://linkedin.com/in/hridyajain">
+    <img src="https://img.shields.io/badge/Let's_build_together-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</p>
 
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI & Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-**Let's build something useful together.**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridyajain)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:06B6D4&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=90&section=footer" width="100%" alt="Footer wave"/>
+</p>

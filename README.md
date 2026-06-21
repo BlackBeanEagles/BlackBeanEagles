@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"Ship code like it's a summer drop — loud, clean, and impossible to ignore."*
+> *"Make it work, make it right, make it funky."*
 <!-- DEV_QUOTE:END -->
 
 ---
@@ -52,7 +52,7 @@ I ship tools like commit therapists, interview coaches, and secure apps — usef
 > **Now building:** [`zapsafe-mobile`](https://github.com/BlackBeanEagles/zapsafe-mobile) · `Dart` · last push `2026-06-09`
 
 ```bash
-$ git clone https://github.com/BlackBeanEagles/zapsafe-mobile.git && cd zapsafe-mobile
+$ git clone https://github.com/BlackBeanEagles/zapsafe-mobile.git && cd zapsafe-mobile && echo "Let's build."
 ```
 <!-- NOW_BUILDING:END -->
 
@@ -85,10 +85,10 @@ $ hridya status
 <!-- LIVE_FEED:START -->
 | Signal | Value |
 | :--- | :--- |
-| **Last activity** | `push -> BlackBeanEagles` |
+| **Last public activity** | `push -> BlackBeanEagles` |
 | **Public repos** | `26` |
 | **Followers** | `7` |
-| **Auto-sync** | every 6 hours |
+| **Profile sync** | auto-updated every 6 hours |
 <!-- LIVE_FEED:END -->
 
 <br/>

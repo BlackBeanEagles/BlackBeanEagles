@@ -123,13 +123,7 @@ $ hridya status
 
 ### WakaTime
 <!-- WAKATIME_STATS:START -->
-| Status | Action |
-| :--- | :--- |
-| **Connected** | API key works |
-| **Next step** | Set your [timezone in WakaTime settings](https://wakatime.com/settings/account) |
-| **Then** | Install the WakaTime plugin in Cursor/VS Code and start coding |
-
-*Free plan · stats appear after your first coding session*
+**WakaTime:** unable to fetch stats right now — check your API key and account settings.
 <!-- WAKATIME_STATS:END -->
 
 <details>

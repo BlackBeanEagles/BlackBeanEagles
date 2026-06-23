@@ -87,7 +87,7 @@ $ hridya status
 | :--- | :--- |
 | **Last public activity** | `push -> BlackBeanEagles` |
 | **Public repos** | `26` |
-| **Followers** | `7` |
+| **Followers** | `6` |
 | **Profile sync** | auto-updated every 6 hours |
 <!-- LIVE_FEED:END -->
 

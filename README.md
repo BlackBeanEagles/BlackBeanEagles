@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"Make it work, make it right, make it funky."*
+> *"If it compiles on the first try, something's wrong."*
 <!-- DEV_QUOTE:END -->
 
 ---

@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"If it compiles on the first try, something's wrong."*
+> *"Built different. Deployed daily. Vibes immaculate."*
 <!-- DEV_QUOTE:END -->
 
 ---

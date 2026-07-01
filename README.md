@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"Built different. Deployed daily. Vibes immaculate."*
+> *"Ship code like it's a summer drop — loud, clean, impossible to ignore."*
 <!-- DEV_QUOTE:END -->
 
 ---

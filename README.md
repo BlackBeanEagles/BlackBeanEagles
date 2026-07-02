@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"Ship code like it's a summer drop — loud, clean, impossible to ignore."*
+> *"Security isn't boring. Your password 'password123' is boring."*
 <!-- DEV_QUOTE:END -->
 
 ---

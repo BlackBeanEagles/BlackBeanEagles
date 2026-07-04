@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"Good commits tell a story. Great commits have main character energy."*
+> *"AI amplifies intent. Chaos amplifies debugging at 2am."*
 <!-- DEV_QUOTE:END -->
 
 ---

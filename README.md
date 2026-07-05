@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"AI amplifies intent. Chaos amplifies debugging at 2am."*
+> *"Make it work, make it right, make it funky."*
 <!-- DEV_QUOTE:END -->
 
 ---

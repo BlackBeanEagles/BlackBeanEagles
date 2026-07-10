@@ -31,7 +31,7 @@
 </details>
 
 <!-- DEV_QUOTE:START -->
-> *"Security isn't boring. Your password 'password123' is boring."*
+> *"Good commits tell a story. Great commits have main character energy."*
 <!-- DEV_QUOTE:END -->
 
 ---
